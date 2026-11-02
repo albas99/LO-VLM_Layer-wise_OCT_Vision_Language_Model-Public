@@ -12,7 +12,7 @@ import json
 import argparse
 import torch
 from PIL import Image
-from datasets import load_dataset
+from datasets import load_dataset, load_from_disk
 from transformers import AutoProcessor, BlipForConditionalGeneration
 
 
@@ -26,7 +26,7 @@ def parse_args():
     parser.add_argument(
         "--dataset_name",
         type=str,
-        default="QIAIUNCC/OCT-Text-Dataset",
+        default="QIAIUNCC/OCT-summary-Dataset",
         help="Dataset name or path (Hugging Face format)",
     )
     parser.add_argument(
@@ -102,13 +102,20 @@ def run_inference(model, processor, dataset, device, output_json, output_txt):
     Run inference and save results.
     """
     results = []
+    label_names = dataset.features["label"]
+    imgs_dir = 'dataset_500/images'
+    
+    print(label_names)
 
     for idx, item in enumerate(dataset):
         print(f"Processing sample {idx + 1}/{len(dataset)}")
 
+        # image_id =  f'image_{idx}'
+
         # Load image + metadata
-        image = Image.open(item["img_path"])
+        image = Image.open(os.path.join(imgs_dir, item["img_path"]))
         label = item["label"]
+        # dec_label = label_names[label]
         caption = item["desc"]
 
         # Preprocess image
@@ -122,7 +129,9 @@ def run_inference(model, processor, dataset, device, output_json, output_txt):
         # Store result
         results.append({
             "image_path": item["img_path"],
+            # "source": item['source'],
             "image_label": label,
+            # "image_label_str": dec_label,
             "generated_text": generated_text,
             "Expected_Text": caption,
         })
@@ -134,7 +143,7 @@ def run_inference(model, processor, dataset, device, output_json, output_txt):
     # Save plain text for quick viewing
     with open(output_txt, "w", encoding="utf-8") as f:
         for res in results:
-            f.write(f"Image path: {res['image_path']}\n")
+            f.write(f"Image: {res['image_path']}\n")
             f.write(f"Generated text: {res['generated_text']}\n")
             f.write("-" * 28 + "\n")
 
@@ -145,7 +154,8 @@ def main():
     args = parse_args()
 
     # Load dataset
-    dataset = load_dataset(args.dataset_name, split=args.dataset_split)
+    # dataset = load_dataset(args.dataset_name, split=args.dataset_split)
+    dataset = load_from_disk(args.dataset_name)
 
     # Load model
     model, processor = load_model(args.model_name, args.checkpoint_path, args.device)

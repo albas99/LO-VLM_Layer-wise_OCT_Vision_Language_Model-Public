@@ -1,0 +1,770 @@
+[
+    {
+        "image_path": "sample_0038.png",
+        "image_label": "CSC",
+        "generated_text": "diagnosed disease : csc, layer information : findings are consistent with central serous chorioretinopathy. a single, focal, mild subretinal fluid collection is present at the fovea in the middle of the scan. no pigment epithelial detachment, intraretinal cysts, or epiretinal membrane is seen.",
+        "Expected_Text": "Findings are consistent with central serous chorioretinopathy. A single collection of marked subretinal fluid occupies a wide segment of the scan at the fovea, in the middle of the B-scan. No pigment epithelial detachment, intraretinal cysts, or subretinal hyperreflective material is seen.",
+        "diagnosed_diseases": "csc",
+        "generated_report": "findings are consistent with central serous chorioretinopathy. a single, focal, mild subretinal fluid collection is present at the fovea in the middle of the scan. no pigment epithelial detachment, intraretinal cysts, or epiretinal membrane is seen."
+    },
+    {
+        "image_path": "sample_0038.png",
+        "image_label": "CSC",
+        "generated_text": "diagnosed disease : csc, layer information : findings are consistent with central serous chorioretinopathy. a single, focal, mild subretinal fluid collection is present at the fovea in the middle of the scan. no pigment epithelial detachment, intraretinal cysts, or epiretinal membrane is seen.",
+        "Expected_Text": "The scan is consistent with central serous chorioretinopathy, showing a solitary focus of marked subretinal fluid centered at the fovea and spanning a broad part of the scan in its middle portion. Epiretinal membrane, outer retinal atrophy, and hyperreflective intraretinal points are absent.",
+        "diagnosed_diseases": "csc",
+        "generated_report": "findings are consistent with central serous chorioretinopathy. a single, focal, mild subretinal fluid collection is present at the fovea in the middle of the scan. no pigment epithelial detachment, intraretinal cysts, or epiretinal membrane is seen."
+    },
+    {
+        "image_path": "sample_0038.png",
+        "image_label": "CSC",
+        "generated_text": "diagnosed disease : csc, layer information : findings are consistent with central serous chorioretinopathy. a single, focal, mild subretinal fluid collection is present at the fovea in the middle of the scan. no pigment epithelial detachment, intraretinal cysts, or epiretinal membrane is seen.",
+        "Expected_Text": "Overall picture: central serous chorioretinopathy. Marked subretinal fluid is present as a single broad collection at the fovea in the middle of the scan. There is no evidence of full-thickness macular hole, double layer sign, or posterior hyaloid membrane.",
+        "diagnosed_diseases": "csc",
+        "generated_report": "findings are consistent with central serous chorioretinopathy. a single, focal, mild subretinal fluid collection is present at the fovea in the middle of the scan. no pigment epithelial detachment, intraretinal cysts, or epiretinal membrane is seen."
+    },
+    {
+        "image_path": "sample_0047.png",
+        "image_label": "ERM,AMD_mid",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with late age - related macular degeneration and epiretinal membrane. in the middle of the scan, a single moderate double layer sign is seen at the fovea, and a focal mild epiretinal membrane sits parafoveally. mild cuticular drusen appear as a solitary small focus peripherally in the lower portion. reticular drusen, outer retinal atrophy, and subretinal hyperreflective material are absent.",
+        "Expected_Text": "Findings are consistent with epiretinal membrane and intermediate age-related macular degeneration. Moderate cuticular drusen are present in multiple foci at the fovea and parafoveal region, with a solitary mild pigment epithelial detachment at the fovea, all at mid-scan level. A moderate epiretinal membrane in a few segments involves the parafoveal and peripheral scan. No subretinal fluid, intraretinal cysts, or posterior hyaloid membrane is seen.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with late age - related macular degeneration and epiretinal membrane. in the middle of the scan, a single moderate double layer sign is seen at the fovea, and a focal mild epiretinal membrane sits parafoveally. mild cuticular drusen appear as a solitary small focus peripherally in the lower portion. reticular drusen, outer retinal atrophy, and subretinal hyperreflective material are absent."
+    },
+    {
+        "image_path": "sample_0047.png",
+        "image_label": "ERM,AMD_mid",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with late age - related macular degeneration and epiretinal membrane. in the middle of the scan, a single moderate double layer sign is seen at the fovea, and a focal mild epiretinal membrane sits parafoveally. mild cuticular drusen appear as a solitary small focus peripherally in the lower portion. reticular drusen, outer retinal atrophy, and subretinal hyperreflective material are absent.",
+        "Expected_Text": "The scan is consistent with intermediate age-related macular degeneration and epiretinal membrane. A moderate epiretinal membrane in a few segments is located parafoveally and peripherally in the mid-scan region, alongside a single mild pigment epithelial detachment at the fovea. Multiple moderate cuticular drusen lie at and around the fovea. Double layer sign, outer retinal atrophy, and reticular drusen are absent.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with late age - related macular degeneration and epiretinal membrane. in the middle of the scan, a single moderate double layer sign is seen at the fovea, and a focal mild epiretinal membrane sits parafoveally. mild cuticular drusen appear as a solitary small focus peripherally in the lower portion. reticular drusen, outer retinal atrophy, and subretinal hyperreflective material are absent."
+    },
+    {
+        "image_path": "sample_0047.png",
+        "image_label": "ERM,AMD_mid",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with late age - related macular degeneration and epiretinal membrane. in the middle of the scan, a single moderate double layer sign is seen at the fovea, and a focal mild epiretinal membrane sits parafoveally. mild cuticular drusen appear as a solitary small focus peripherally in the lower portion. reticular drusen, outer retinal atrophy, and subretinal hyperreflective material are absent.",
+        "Expected_Text": "Overall picture: epiretinal membrane with intermediate age-related macular degeneration. At the fovea, a mild pigment epithelial detachment (single) sits among multiple moderate cuticular drusen that extend into the parafoveal region. The parafoveal and peripheral scan shows a moderate epiretinal membrane in a few segments. There is no subretinal hyperreflective material, outer retinal tubulation, or lamellar macular hole.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with late age - related macular degeneration and epiretinal membrane. in the middle of the scan, a single moderate double layer sign is seen at the fovea, and a focal mild epiretinal membrane sits parafoveally. mild cuticular drusen appear as a solitary small focus peripherally in the lower portion. reticular drusen, outer retinal atrophy, and subretinal hyperreflective material are absent."
+    },
+    {
+        "image_path": "sample_0050.png",
+        "image_label": "LH",
+        "generated_text": "diagnosed disease : lh, layer information : overall picture : lamellar macular hole. in the middle of the scan a moderate lamellar macular hole is solitary and foveal, accompanied by mild intraretinal cysts in a few foveal foci. there is no double layer sign, epiretinal membrane or reticular drusen.",
+        "Expected_Text": "Findings are consistent with lamellar macular hole. A moderate lamellar macular hole is seen at the fovea in the middle portion of the scan, with a few mild intraretinal cysts at the fovea and in the parafoveal region. No epiretinal membrane, subretinal fluid, or pigment epithelial detachment is present.",
+        "diagnosed_diseases": "lh",
+        "generated_report": "overall picture : lamellar macular hole. in the middle of the scan a moderate lamellar macular hole is solitary and foveal, accompanied by mild intraretinal cysts in a few foveal foci. there is no double layer sign, epiretinal membrane or reticular drusen."
+    },
+    {
+        "image_path": "sample_0050.png",
+        "image_label": "LH",
+        "generated_text": "diagnosed disease : lh, layer information : overall picture : lamellar macular hole. in the middle of the scan a moderate lamellar macular hole is solitary and foveal, accompanied by mild intraretinal cysts in a few foveal foci. there is no double layer sign, epiretinal membrane or reticular drusen.",
+        "Expected_Text": "The scan is consistent with lamellar macular hole. A few mild intraretinal cysts are seen in the foveal and parafoveal region in the middle of the B-scan, together with a focal moderate lamellar macular hole at the fovea. Posterior hyaloid membrane, cuticular drusen, and full-thickness macular hole are absent.",
+        "diagnosed_diseases": "lh",
+        "generated_report": "overall picture : lamellar macular hole. in the middle of the scan a moderate lamellar macular hole is solitary and foveal, accompanied by mild intraretinal cysts in a few foveal foci. there is no double layer sign, epiretinal membrane or reticular drusen."
+    },
+    {
+        "image_path": "sample_0050.png",
+        "image_label": "LH",
+        "generated_text": "diagnosed disease : lh, layer information : overall picture : lamellar macular hole. in the middle of the scan a moderate lamellar macular hole is solitary and foveal, accompanied by mild intraretinal cysts in a few foveal foci. there is no double layer sign, epiretinal membrane or reticular drusen.",
+        "Expected_Text": "Overall picture: lamellar macular hole. At the fovea, in the middle of the scan, a moderate lamellar macular hole is accompanied by a few mild intraretinal cysts that extend into the parafoveal region. The scan is free of outer retinal atrophy, double layer sign, and subretinal hyperreflective material.",
+        "diagnosed_diseases": "lh",
+        "generated_report": "overall picture : lamellar macular hole. in the middle of the scan a moderate lamellar macular hole is solitary and foveal, accompanied by mild intraretinal cysts in a few foveal foci. there is no double layer sign, epiretinal membrane or reticular drusen."
+    },
+    {
+        "image_path": "sample_0067.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : amd _ late, layer information : the scan is consistent with late age - related macular degeneration. a solitary mild double layer sign is present at the fovea, accompanied by multiple mild intraretinal cysts in the foveal and parafoveal regions. a single small focus of mild subretinal fluid lies in the parafoveal region. cuticular drusen, reticular drusen, and hyperreflective intraretinal points are absent.",
+        "Expected_Text": "Findings are consistent with late age-related macular degeneration and posterior vitreous detachment. In the lower part of the scan there are a moderate double layer sign at the fovea, a small mild subretinal fluid focus and a few small mild hyperreflective intraretinal points parafoveally, and a small mild pigment epithelial detachment peripherally. A mild posterior hyaloid membrane lies peripherally toward the upper part of the scan. No intraretinal cysts, epiretinal membrane, or cuticular drusen is seen.",
+        "diagnosed_diseases": "amd _ late",
+        "generated_report": "the scan is consistent with late age - related macular degeneration. a solitary mild double layer sign is present at the fovea, accompanied by multiple mild intraretinal cysts in the foveal and parafoveal regions. a single small focus of mild subretinal fluid lies in the parafoveal region. cuticular drusen, reticular drusen, and hyperreflective intraretinal points are absent."
+    },
+    {
+        "image_path": "sample_0067.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : amd _ late, layer information : the scan is consistent with late age - related macular degeneration. a solitary mild double layer sign is present at the fovea, accompanied by multiple mild intraretinal cysts in the foveal and parafoveal regions. a single small focus of mild subretinal fluid lies in the parafoveal region. cuticular drusen, reticular drusen, and hyperreflective intraretinal points are absent.",
+        "Expected_Text": "The scan is consistent with posterior vitreous detachment and late age-related macular degeneration. A mild posterior hyaloid membrane lies peripherally near the top of the scan, a small segment. Lower in the scan, a solitary moderate double layer sign is present at the fovea, alongside mild subretinal fluid as a small parafoveal focus, a few mild hyperreflective intraretinal points, and a small peripheral mild pigment epithelial detachment. Reticular drusen, outer retinal atrophy, and subretinal hyperreflective material are absent.",
+        "diagnosed_diseases": "amd _ late",
+        "generated_report": "the scan is consistent with late age - related macular degeneration. a solitary mild double layer sign is present at the fovea, accompanied by multiple mild intraretinal cysts in the foveal and parafoveal regions. a single small focus of mild subretinal fluid lies in the parafoveal region. cuticular drusen, reticular drusen, and hyperreflective intraretinal points are absent."
+    },
+    {
+        "image_path": "sample_0067.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : amd _ late, layer information : the scan is consistent with late age - related macular degeneration. a solitary mild double layer sign is present at the fovea, accompanied by multiple mild intraretinal cysts in the foveal and parafoveal regions. a single small focus of mild subretinal fluid lies in the parafoveal region. cuticular drusen, reticular drusen, and hyperreflective intraretinal points are absent.",
+        "Expected_Text": "Overall picture: posterior vitreous detachment with late age-related macular degeneration. A single moderate double layer sign sits at the fovea toward the lower part of the scan; a mild subretinal fluid focus, a few mild hyperreflective intraretinal points, and a mild pigment epithelial detachment are also small findings in the lower scan, parafoveal and peripheral. A mild posterior hyaloid membrane appears peripherally in the upper portion. Cuticular drusen, epiretinal membrane, and outer retinal tubulation are not seen.",
+        "diagnosed_diseases": "amd _ late",
+        "generated_report": "the scan is consistent with late age - related macular degeneration. a solitary mild double layer sign is present at the fovea, accompanied by multiple mild intraretinal cysts in the foveal and parafoveal regions. a single small focus of mild subretinal fluid lies in the parafoveal region. cuticular drusen, reticular drusen, and hyperreflective intraretinal points are absent."
+    },
+    {
+        "image_path": "sample_0089.png",
+        "image_label": "CSC",
+        "generated_text": "diagnosed disease : no, layer information : overall picture : no significant retinal pathology. reticular drusen, hyperreflective intraretinal points and outer retinal atrophy are not seen, and the scan is free of full - thickness macular hole.",
+        "Expected_Text": "Findings are consistent with central serous chorioretinopathy. A single moderate subretinal fluid pocket lies in the parafoveal region in the middle of the scan, with a solitary tiny mild pigment epithelial detachment at the same parafoveal location. No intraretinal cysts, epiretinal membrane or subretinal hyperreflective material is seen.",
+        "diagnosed_diseases": "no",
+        "generated_report": "overall picture : no significant retinal pathology. reticular drusen, hyperreflective intraretinal points and outer retinal atrophy are not seen, and the scan is free of full - thickness macular hole."
+    },
+    {
+        "image_path": "sample_0089.png",
+        "image_label": "CSC",
+        "generated_text": "diagnosed disease : no, layer information : overall picture : no significant retinal pathology. reticular drusen, hyperreflective intraretinal points and outer retinal atrophy are not seen, and the scan is free of full - thickness macular hole.",
+        "Expected_Text": "The scan is consistent with central serous chorioretinopathy. In the parafoveal region, in the middle of the scan, there is one focal moderate subretinal fluid collection and a minute single mild pigment epithelial detachment. Full-thickness macular hole, outer retinal atrophy and posterior hyaloid membrane are absent.",
+        "diagnosed_diseases": "no",
+        "generated_report": "overall picture : no significant retinal pathology. reticular drusen, hyperreflective intraretinal points and outer retinal atrophy are not seen, and the scan is free of full - thickness macular hole."
+    },
+    {
+        "image_path": "sample_0089.png",
+        "image_label": "CSC",
+        "generated_text": "diagnosed disease : no, layer information : overall picture : no significant retinal pathology. reticular drusen, hyperreflective intraretinal points and outer retinal atrophy are not seen, and the scan is free of full - thickness macular hole.",
+        "Expected_Text": "Overall picture: central serous chorioretinopathy. A mild pigment epithelial detachment is present as one tiny focus in the parafoveal region in the middle of the scan, together with a solitary moderate subretinal fluid pocket. Cuticular drusen, reticular drusen and double layer sign are not present.",
+        "diagnosed_diseases": "no",
+        "generated_report": "overall picture : no significant retinal pathology. reticular drusen, hyperreflective intraretinal points and outer retinal atrophy are not seen, and the scan is free of full - thickness macular hole."
+    },
+    {
+        "image_path": "sample_0093.png",
+        "image_label": "AMD_late,VMA",
+        "generated_text": "diagnosed disease : erm, rvo, layer information : findings are consistent with epiretinal membrane and retinal vein occlusion. numerous marked intraretinal cysts occupy the parafoveal and peripheral regions of the middle and upper scan, and a marked subretinal fluid collection is centered at the fovea over a wide segment of its width. a few focal moderate epiretinal membrane segments lie in the parafoveal region toward the top of the scan. no pigment epithelial detachment, posterior hyaloid membrane, or outer retinal atrophy is seen.",
+        "Expected_Text": "Findings are consistent with late age-related macular degeneration and vitreomacular adhesion. Numerous marked intraretinal cysts are distributed across the fovea, parafoveal region, and periphery in the middle and upper portions of the scan, alongside marked subretinal hyperreflective material at the fovea and a marked double layer sign in the lower part of the scan at the fovea. Numerous marked subretinal fluid collections lie peripherally across nearly the full width in the lower and middle portions, and a few moderate posterior hyaloid membrane segments extend peripherally across a wide part of the middle of the scan. No epiretinal membrane, pigment epithelial detachment, or outer retinal atrophy is seen.",
+        "diagnosed_diseases": "erm, rvo",
+        "generated_report": "findings are consistent with epiretinal membrane and retinal vein occlusion. numerous marked intraretinal cysts occupy the parafoveal and peripheral regions of the middle and upper scan, and a marked subretinal fluid collection is centered at the fovea over a wide segment of its width. a few focal moderate epiretinal membrane segments lie in the parafoveal region toward the top of the scan. no pigment epithelial detachment, posterior hyaloid membrane, or outer retinal atrophy is seen."
+    },
+    {
+        "image_path": "sample_0093.png",
+        "image_label": "AMD_late,VMA",
+        "generated_text": "diagnosed disease : erm, rvo, layer information : findings are consistent with epiretinal membrane and retinal vein occlusion. numerous marked intraretinal cysts occupy the parafoveal and peripheral regions of the middle and upper scan, and a marked subretinal fluid collection is centered at the fovea over a wide segment of its width. a few focal moderate epiretinal membrane segments lie in the parafoveal region toward the top of the scan. no pigment epithelial detachment, posterior hyaloid membrane, or outer retinal atrophy is seen.",
+        "Expected_Text": "The scan is consistent with vitreomacular adhesion and late age-related macular degeneration. Peripherally, numerous marked subretinal fluid collections span nearly the entire scan width in the lower and middle portions of the B-scan. At the fovea there is a marked subretinal hyperreflective material in the middle of the scan and a marked double layer sign lower down, with numerous marked intraretinal cysts in the middle and upper parts of the fovea, parafoveal region, and periphery. A few moderate posterior hyaloid membrane segments run across a wide part of the peripheral middle scan. Hyperreflective intraretinal points, cuticular drusen, and full-thickness macular hole are absent.",
+        "diagnosed_diseases": "erm, rvo",
+        "generated_report": "findings are consistent with epiretinal membrane and retinal vein occlusion. numerous marked intraretinal cysts occupy the parafoveal and peripheral regions of the middle and upper scan, and a marked subretinal fluid collection is centered at the fovea over a wide segment of its width. a few focal moderate epiretinal membrane segments lie in the parafoveal region toward the top of the scan. no pigment epithelial detachment, posterior hyaloid membrane, or outer retinal atrophy is seen."
+    },
+    {
+        "image_path": "sample_0093.png",
+        "image_label": "AMD_late,VMA",
+        "generated_text": "diagnosed disease : erm, rvo, layer information : findings are consistent with epiretinal membrane and retinal vein occlusion. numerous marked intraretinal cysts occupy the parafoveal and peripheral regions of the middle and upper scan, and a marked subretinal fluid collection is centered at the fovea over a wide segment of its width. a few focal moderate epiretinal membrane segments lie in the parafoveal region toward the top of the scan. no pigment epithelial detachment, posterior hyaloid membrane, or outer retinal atrophy is seen.",
+        "Expected_Text": "Overall picture: late age-related macular degeneration with vitreomacular adhesion. At the fovea, a marked subretinal hyperreflective material lies in the middle of the scan and a marked double layer sign lies toward its lower part. Numerous marked intraretinal cysts are scattered across the foveal, parafoveal, and peripheral retina in the middle and upper portions, while numerous marked subretinal fluid collections extend along nearly the full scan width peripherally, in the lower and middle portions. A few moderate posterior hyaloid membrane segments cross a wide part of the periphery in the middle of the scan. The scan is free of reticular drusen, lamellar macular hole, and outer retinal tubulation.",
+        "diagnosed_diseases": "erm, rvo",
+        "generated_report": "findings are consistent with epiretinal membrane and retinal vein occlusion. numerous marked intraretinal cysts occupy the parafoveal and peripheral regions of the middle and upper scan, and a marked subretinal fluid collection is centered at the fovea over a wide segment of its width. a few focal moderate epiretinal membrane segments lie in the parafoveal region toward the top of the scan. no pigment epithelial detachment, posterior hyaloid membrane, or outer retinal atrophy is seen."
+    },
+    {
+        "image_path": "sample_0104.png",
+        "image_label": "PVD,ERM,AMD_late",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent.",
+        "Expected_Text": "Findings are consistent with posterior vitreous detachment, epiretinal membrane, and late age-related macular degeneration. A solitary marked double layer sign spans about half the scan width at the fovea in the middle of the image, with a solitary tiny focus of mild subretinal fluid parafoveally. In the upper part of the scan, a moderate posterior hyaloid membrane lies at the fovea, together with a few small foci of mild intraretinal cysts and a few segments of moderate epiretinal membrane. No pigment epithelial detachment, cuticular drusen, or outer retinal atrophy is seen.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent."
+    },
+    {
+        "image_path": "sample_0104.png",
+        "image_label": "PVD,ERM,AMD_late",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent.",
+        "Expected_Text": "The scan is consistent with epiretinal membrane, posterior vitreous detachment, and late age-related macular degeneration. Toward the top of the scan, a moderate posterior hyaloid membrane, single and foveal, extends over a wide segment, accompanied by a moderate epiretinal membrane in a few small segments and mild intraretinal cysts in a few foci at the fovea. A marked double layer sign, single and broad, lies at the fovea in the middle of the scan, and a solitary mild subretinal fluid focus is present parafoveally. Cuticular drusen, hyperreflective intraretinal points, and reticular drusen are absent.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent."
+    },
+    {
+        "image_path": "sample_0104.png",
+        "image_label": "PVD,ERM,AMD_late",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent.",
+        "Expected_Text": "Overall picture: late age-related macular degeneration with posterior vitreous detachment and epiretinal membrane. A marked double layer sign is the dominant foveal finding in the middle of the scan, with a solitary mild subretinal fluid focus in the parafoveal region. Higher in the scan, at the fovea, there are a moderate posterior hyaloid membrane spanning most of the scan width, a few small segments of moderate epiretinal membrane, and a few mild intraretinal cysts. No evidence of full-thickness macular hole, subretinal hyperreflective material, or pigment epithelial detachment.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent."
+    },
+    {
+        "image_path": "sample_0122.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : rvo, layer information : findings are consistent with retinal vein occlusion. multiple moderate intraretinal cysts are present at the fovea and in the parafoveal region in the middle of the scan. a single tiny mild subretinal fluid pocket lies at the fovea toward the lower part of the scan. no pigment epithelial detachment, epiretinal membrane or posterior hyaloid membrane is seen.",
+        "Expected_Text": "Findings are consistent with late age-related macular degeneration. Numerous marked intraretinal cysts are present at the fovea and in the parafoveal region, in the middle and upper parts of the scan, and a single moderate double layer sign lies at the fovea in the middle of the scan. No epiretinal membrane, subretinal fluid or pigment epithelial detachment is seen.",
+        "diagnosed_diseases": "rvo",
+        "generated_report": "findings are consistent with retinal vein occlusion. multiple moderate intraretinal cysts are present at the fovea and in the parafoveal region in the middle of the scan. a single tiny mild subretinal fluid pocket lies at the fovea toward the lower part of the scan. no pigment epithelial detachment, epiretinal membrane or posterior hyaloid membrane is seen."
+    },
+    {
+        "image_path": "sample_0122.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : rvo, layer information : findings are consistent with retinal vein occlusion. multiple moderate intraretinal cysts are present at the fovea and in the parafoveal region in the middle of the scan. a single tiny mild subretinal fluid pocket lies at the fovea toward the lower part of the scan. no pigment epithelial detachment, epiretinal membrane or posterior hyaloid membrane is seen.",
+        "Expected_Text": "The scan is consistent with late age-related macular degeneration. A solitary moderate double layer sign is found at the fovea in the middle of the scan, in association with numerous marked intraretinal cysts across the foveal and parafoveal regions, toward the middle and upper parts of the B-scan. Reticular drusen, outer retinal atrophy and posterior hyaloid membrane are absent.",
+        "diagnosed_diseases": "rvo",
+        "generated_report": "findings are consistent with retinal vein occlusion. multiple moderate intraretinal cysts are present at the fovea and in the parafoveal region in the middle of the scan. a single tiny mild subretinal fluid pocket lies at the fovea toward the lower part of the scan. no pigment epithelial detachment, epiretinal membrane or posterior hyaloid membrane is seen."
+    },
+    {
+        "image_path": "sample_0122.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : rvo, layer information : findings are consistent with retinal vein occlusion. multiple moderate intraretinal cysts are present at the fovea and in the parafoveal region in the middle of the scan. a single tiny mild subretinal fluid pocket lies at the fovea toward the lower part of the scan. no pigment epithelial detachment, epiretinal membrane or posterior hyaloid membrane is seen.",
+        "Expected_Text": "Overall picture: late age-related macular degeneration. Marked intraretinal cysts, numerous and confined to the foveal and parafoveal regions, occupy the middle and upper parts of the scan, and a focal moderate double layer sign is single and foveal. There is no subretinal fluid, epiretinal membrane or cuticular drusen.",
+        "diagnosed_diseases": "rvo",
+        "generated_report": "findings are consistent with retinal vein occlusion. multiple moderate intraretinal cysts are present at the fovea and in the parafoveal region in the middle of the scan. a single tiny mild subretinal fluid pocket lies at the fovea toward the lower part of the scan. no pigment epithelial detachment, epiretinal membrane or posterior hyaloid membrane is seen."
+    },
+    {
+        "image_path": "sample_0128.png",
+        "image_label": "ERM",
+        "generated_text": "diagnosed disease : erm, layer information : the scan is consistent with epiretinal membrane. at the fovea in the middle of the b - scan sits a single mild intraretinal cyst. parafoveally and peripherally, in the middle and upper zones, a marked epiretinal membrane in a few segments spans a wide segment of the width. outer retinal atrophy, double layer sign and posterior hyaloid membrane are absent.",
+        "Expected_Text": "Findings are consistent with epiretinal membrane. Multiple foci of marked epiretinal membrane extend across nearly the full width of the B-scan, involving the foveal, parafoveal, and peripheral regions in the middle and upper parts of the image. Neither subretinal fluid nor intraretinal cysts are seen, and pigment epithelial detachment is absent.",
+        "diagnosed_diseases": "erm",
+        "generated_report": "the scan is consistent with epiretinal membrane. at the fovea in the middle of the b - scan sits a single mild intraretinal cyst. parafoveally and peripherally, in the middle and upper zones, a marked epiretinal membrane in a few segments spans a wide segment of the width. outer retinal atrophy, double layer sign and posterior hyaloid membrane are absent."
+    },
+    {
+        "image_path": "sample_0128.png",
+        "image_label": "ERM",
+        "generated_text": "diagnosed disease : erm, layer information : the scan is consistent with epiretinal membrane. at the fovea in the middle of the b - scan sits a single mild intraretinal cyst. parafoveally and peripherally, in the middle and upper zones, a marked epiretinal membrane in a few segments spans a wide segment of the width. outer retinal atrophy, double layer sign and posterior hyaloid membrane are absent.",
+        "Expected_Text": "The scan is consistent with epiretinal membrane. A widespread marked epiretinal membrane, made up of multiple separate foci, covers almost the whole scan width in the middle and upper portions, from the fovea out to the periphery. Reticular drusen, outer retinal atrophy, and posterior hyaloid membrane are not present.",
+        "diagnosed_diseases": "erm",
+        "generated_report": "the scan is consistent with epiretinal membrane. at the fovea in the middle of the b - scan sits a single mild intraretinal cyst. parafoveally and peripherally, in the middle and upper zones, a marked epiretinal membrane in a few segments spans a wide segment of the width. outer retinal atrophy, double layer sign and posterior hyaloid membrane are absent."
+    },
+    {
+        "image_path": "sample_0128.png",
+        "image_label": "ERM",
+        "generated_text": "diagnosed disease : erm, layer information : the scan is consistent with epiretinal membrane. at the fovea in the middle of the b - scan sits a single mild intraretinal cyst. parafoveally and peripherally, in the middle and upper zones, a marked epiretinal membrane in a few segments spans a wide segment of the width. outer retinal atrophy, double layer sign and posterior hyaloid membrane are absent.",
+        "Expected_Text": "Overall picture: epiretinal membrane. Across the middle and upper parts of the scan, marked epiretinal membrane appears in multiple foci at the fovea, in the parafoveal region, and peripherally, occupying nearly the full width of the scan. There is no evidence of full-thickness macular hole, hyperreflective intraretinal points, or subretinal hyperreflective material.",
+        "diagnosed_diseases": "erm",
+        "generated_report": "the scan is consistent with epiretinal membrane. at the fovea in the middle of the b - scan sits a single mild intraretinal cyst. parafoveally and peripherally, in the middle and upper zones, a marked epiretinal membrane in a few segments spans a wide segment of the width. outer retinal atrophy, double layer sign and posterior hyaloid membrane are absent."
+    },
+    {
+        "image_path": "sample_0133.png",
+        "image_label": "AMD_mid,ERM",
+        "generated_text": "diagnosed disease : ftmh, pvd, layer information : findings are consistent with a full - thickness macular hole and posterior vitreous detachment. a mild full - thickness macular hole is present at the fovea in the middle of the scan, with multiple moderate intraretinal cysts in the foveal and parafoveal regions and a single moderate operculum at the fovea in the upper portion. a few segments of marked posterior hyaloid membrane extend across nearly the full width of the upper scan at the fovea and peripherally. no epiretinal membrane, subretinal fluid, or pigment epithelial detachment is seen.",
+        "Expected_Text": "Findings are consistent with intermediate age-related macular degeneration and epiretinal membrane. Multiple foci of moderate epiretinal membrane are present at the fovea and peripherally across most of the scan width, in the middle and upper parts of the scan, together with a few marked cuticular drusen across the foveal, parafoveal and peripheral regions in the middle of the scan. A single focal mild reticular drusen is seen parafoveally. No subretinal fluid, pigment epithelial detachment or intraretinal cysts is present.",
+        "diagnosed_diseases": "ftmh, pvd",
+        "generated_report": "findings are consistent with a full - thickness macular hole and posterior vitreous detachment. a mild full - thickness macular hole is present at the fovea in the middle of the scan, with multiple moderate intraretinal cysts in the foveal and parafoveal regions and a single moderate operculum at the fovea in the upper portion. a few segments of marked posterior hyaloid membrane extend across nearly the full width of the upper scan at the fovea and peripherally. no epiretinal membrane, subretinal fluid, or pigment epithelial detachment is seen."
+    },
+    {
+        "image_path": "sample_0133.png",
+        "image_label": "AMD_mid,ERM",
+        "generated_text": "diagnosed disease : ftmh, pvd, layer information : findings are consistent with a full - thickness macular hole and posterior vitreous detachment. a mild full - thickness macular hole is present at the fovea in the middle of the scan, with multiple moderate intraretinal cysts in the foveal and parafoveal regions and a single moderate operculum at the fovea in the upper portion. a few segments of marked posterior hyaloid membrane extend across nearly the full width of the upper scan at the fovea and peripherally. no epiretinal membrane, subretinal fluid, or pigment epithelial detachment is seen.",
+        "Expected_Text": "The scan is consistent with epiretinal membrane and intermediate age-related macular degeneration. A few marked cuticular drusen are seen across the fovea, parafoveal region and periphery in the middle of the scan, and a solitary focal mild reticular drusen lies in the parafoveal region. A moderate epiretinal membrane in multiple foci covers most of the scan width, at the fovea and peripherally, in the middle and upper parts of the B-scan. Double layer sign, subretinal fluid and outer retinal atrophy are absent.",
+        "diagnosed_diseases": "ftmh, pvd",
+        "generated_report": "findings are consistent with a full - thickness macular hole and posterior vitreous detachment. a mild full - thickness macular hole is present at the fovea in the middle of the scan, with multiple moderate intraretinal cysts in the foveal and parafoveal regions and a single moderate operculum at the fovea in the upper portion. a few segments of marked posterior hyaloid membrane extend across nearly the full width of the upper scan at the fovea and peripherally. no epiretinal membrane, subretinal fluid, or pigment epithelial detachment is seen."
+    },
+    {
+        "image_path": "sample_0133.png",
+        "image_label": "AMD_mid,ERM",
+        "generated_text": "diagnosed disease : ftmh, pvd, layer information : findings are consistent with a full - thickness macular hole and posterior vitreous detachment. a mild full - thickness macular hole is present at the fovea in the middle of the scan, with multiple moderate intraretinal cysts in the foveal and parafoveal regions and a single moderate operculum at the fovea in the upper portion. a few segments of marked posterior hyaloid membrane extend across nearly the full width of the upper scan at the fovea and peripherally. no epiretinal membrane, subretinal fluid, or pigment epithelial detachment is seen.",
+        "Expected_Text": "Overall picture: intermediate age-related macular degeneration with epiretinal membrane. Moderate epiretinal membrane forms multiple foveal and peripheral foci across most of the scan width, in the middle and upper parts of the scan. In the middle of the scan lie a few marked cuticular drusen involving the foveal, parafoveal and peripheral regions, and a single very small mild reticular drusen in the parafoveal region. There is no pigment epithelial detachment, double layer sign or subretinal fluid.",
+        "diagnosed_diseases": "ftmh, pvd",
+        "generated_report": "findings are consistent with a full - thickness macular hole and posterior vitreous detachment. a mild full - thickness macular hole is present at the fovea in the middle of the scan, with multiple moderate intraretinal cysts in the foveal and parafoveal regions and a single moderate operculum at the fovea in the upper portion. a few segments of marked posterior hyaloid membrane extend across nearly the full width of the upper scan at the fovea and peripherally. no epiretinal membrane, subretinal fluid, or pigment epithelial detachment is seen."
+    },
+    {
+        "image_path": "sample_0150.png",
+        "image_label": "AMD_late,ERM",
+        "generated_text": "diagnosed disease : amd _ late, erm, vmt, layer information : the scan is consistent with vitreomacular traction and epiretinal membrane. a marked epiretinal membrane in a few segments runs across the fovea, parafovea, and periphery in the upper part of the scan, and a solitary mild posterior hyaloid membrane lies peripherally near the top of the scan. numerous marked intraretinal cysts span nearly the full width of the scan, from fovea to periphery, in the middle and upper parts. hyperreflective intraretinal points, outer retinal atrophy, and subretinal hyperreflective material are absent.",
+        "Expected_Text": "Findings are consistent with late age-related macular degeneration and epiretinal membrane. A single marked subretinal hyperreflective material lies at the fovea in the middle of the scan, with multiple foci of marked epiretinal membrane spanning a wide segment of the scan in its middle and upper parts, at the fovea, parafoveal region and periphery. A focal moderate outer retinal atrophy is present peripherally. No subretinal fluid, intraretinal cysts or pigment epithelial detachment is seen.",
+        "diagnosed_diseases": "amd _ late, erm, vmt",
+        "generated_report": "the scan is consistent with vitreomacular traction and epiretinal membrane. a marked epiretinal membrane in a few segments runs across the fovea, parafovea, and periphery in the upper part of the scan, and a solitary mild posterior hyaloid membrane lies peripherally near the top of the scan. numerous marked intraretinal cysts span nearly the full width of the scan, from fovea to periphery, in the middle and upper parts. hyperreflective intraretinal points, outer retinal atrophy, and subretinal hyperreflective material are absent."
+    },
+    {
+        "image_path": "sample_0150.png",
+        "image_label": "AMD_late,ERM",
+        "generated_text": "diagnosed disease : amd _ late, erm, vmt, layer information : the scan is consistent with vitreomacular traction and epiretinal membrane. a marked epiretinal membrane in a few segments runs across the fovea, parafovea, and periphery in the upper part of the scan, and a solitary mild posterior hyaloid membrane lies peripherally near the top of the scan. numerous marked intraretinal cysts span nearly the full width of the scan, from fovea to periphery, in the middle and upper parts. hyperreflective intraretinal points, outer retinal atrophy, and subretinal hyperreflective material are absent.",
+        "Expected_Text": "The scan is consistent with epiretinal membrane and late age-related macular degeneration. Marked epiretinal membrane appears as multiple foci across the foveal, parafoveal and peripheral retina toward the middle and upper parts of the scan. At the fovea there is a solitary marked subretinal hyperreflective material, and peripherally a small moderate outer retinal atrophy is noted in the middle of the scan. Cuticular drusen, reticular drusen and posterior hyaloid membrane are absent.",
+        "diagnosed_diseases": "amd _ late, erm, vmt",
+        "generated_report": "the scan is consistent with vitreomacular traction and epiretinal membrane. a marked epiretinal membrane in a few segments runs across the fovea, parafovea, and periphery in the upper part of the scan, and a solitary mild posterior hyaloid membrane lies peripherally near the top of the scan. numerous marked intraretinal cysts span nearly the full width of the scan, from fovea to periphery, in the middle and upper parts. hyperreflective intraretinal points, outer retinal atrophy, and subretinal hyperreflective material are absent."
+    },
+    {
+        "image_path": "sample_0150.png",
+        "image_label": "AMD_late,ERM",
+        "generated_text": "diagnosed disease : amd _ late, erm, vmt, layer information : the scan is consistent with vitreomacular traction and epiretinal membrane. a marked epiretinal membrane in a few segments runs across the fovea, parafovea, and periphery in the upper part of the scan, and a solitary mild posterior hyaloid membrane lies peripherally near the top of the scan. numerous marked intraretinal cysts span nearly the full width of the scan, from fovea to periphery, in the middle and upper parts. hyperreflective intraretinal points, outer retinal atrophy, and subretinal hyperreflective material are absent.",
+        "Expected_Text": "Overall picture: late age-related macular degeneration together with epiretinal membrane. A moderate outer retinal atrophy is seen peripherally as a single small focus in the middle of the scan, while a marked subretinal hyperreflective material sits alone at the fovea. Multiple foci of marked epiretinal membrane cover a wide segment of the scan, in its middle and upper portions. There is no double layer sign, full-thickness macular hole or outer retinal tubulation.",
+        "diagnosed_diseases": "amd _ late, erm, vmt",
+        "generated_report": "the scan is consistent with vitreomacular traction and epiretinal membrane. a marked epiretinal membrane in a few segments runs across the fovea, parafovea, and periphery in the upper part of the scan, and a solitary mild posterior hyaloid membrane lies peripherally near the top of the scan. numerous marked intraretinal cysts span nearly the full width of the scan, from fovea to periphery, in the middle and upper parts. hyperreflective intraretinal points, outer retinal atrophy, and subretinal hyperreflective material are absent."
+    },
+    {
+        "image_path": "sample_0154.png",
+        "image_label": "ERM",
+        "generated_text": "diagnosed disease : dme, erm, layer information : findings are consistent with diabetic macular edema and epiretinal membrane. multiple mild intraretinal cysts involve the foveal and parafoveal regions in the middle and upper parts of the scan, with a single mild hyperreflective intraretinal point at the fovea. a few segments of marked epiretinal membrane span a broad part of the scan across the fovea, parafoveal region, and periphery. no subretinal fluid, pigment epithelial detachment, or posterior hyaloid membrane is seen.",
+        "Expected_Text": "Findings are consistent with epiretinal membrane. Multiple foci of marked epiretinal membrane cover a wide segment of the scan across the foveal, parafoveal, and peripheral regions, in the middle and upper parts of the B-scan. No subretinal fluid, intraretinal cysts, or full-thickness macular hole is seen.",
+        "diagnosed_diseases": "dme, erm",
+        "generated_report": "findings are consistent with diabetic macular edema and epiretinal membrane. multiple mild intraretinal cysts involve the foveal and parafoveal regions in the middle and upper parts of the scan, with a single mild hyperreflective intraretinal point at the fovea. a few segments of marked epiretinal membrane span a broad part of the scan across the fovea, parafoveal region, and periphery. no subretinal fluid, pigment epithelial detachment, or posterior hyaloid membrane is seen."
+    },
+    {
+        "image_path": "sample_0154.png",
+        "image_label": "ERM",
+        "generated_text": "diagnosed disease : dme, erm, layer information : findings are consistent with diabetic macular edema and epiretinal membrane. multiple mild intraretinal cysts involve the foveal and parafoveal regions in the middle and upper parts of the scan, with a single mild hyperreflective intraretinal point at the fovea. a few segments of marked epiretinal membrane span a broad part of the scan across the fovea, parafoveal region, and periphery. no subretinal fluid, pigment epithelial detachment, or posterior hyaloid membrane is seen.",
+        "Expected_Text": "The scan is consistent with epiretinal membrane. A marked epiretinal membrane, arranged in multiple separate segments, extends broadly from the fovea through the parafoveal region to the periphery in the middle and upper portions of the image. Posterior hyaloid membrane, pigment epithelial detachment, and reticular drusen are absent.",
+        "diagnosed_diseases": "dme, erm",
+        "generated_report": "findings are consistent with diabetic macular edema and epiretinal membrane. multiple mild intraretinal cysts involve the foveal and parafoveal regions in the middle and upper parts of the scan, with a single mild hyperreflective intraretinal point at the fovea. a few segments of marked epiretinal membrane span a broad part of the scan across the fovea, parafoveal region, and periphery. no subretinal fluid, pigment epithelial detachment, or posterior hyaloid membrane is seen."
+    },
+    {
+        "image_path": "sample_0154.png",
+        "image_label": "ERM",
+        "generated_text": "diagnosed disease : dme, erm, layer information : findings are consistent with diabetic macular edema and epiretinal membrane. multiple mild intraretinal cysts involve the foveal and parafoveal regions in the middle and upper parts of the scan, with a single mild hyperreflective intraretinal point at the fovea. a few segments of marked epiretinal membrane span a broad part of the scan across the fovea, parafoveal region, and periphery. no subretinal fluid, pigment epithelial detachment, or posterior hyaloid membrane is seen.",
+        "Expected_Text": "Overall picture: epiretinal membrane. In the upper and middle parts of the scan there are multiple areas of marked epiretinal membrane involving the fovea, the parafoveal region, and the periphery over a wide stretch of the B-scan. Outer retinal atrophy, hyperreflective intraretinal points, and subretinal hyperreflective material are not present.",
+        "diagnosed_diseases": "dme, erm",
+        "generated_report": "findings are consistent with diabetic macular edema and epiretinal membrane. multiple mild intraretinal cysts involve the foveal and parafoveal regions in the middle and upper parts of the scan, with a single mild hyperreflective intraretinal point at the fovea. a few segments of marked epiretinal membrane span a broad part of the scan across the fovea, parafoveal region, and periphery. no subretinal fluid, pigment epithelial detachment, or posterior hyaloid membrane is seen."
+    },
+    {
+        "image_path": "sample_0165.png",
+        "image_label": "FTMH,PVD",
+        "generated_text": "diagnosed disease : ftmh, erm, layer information : findings are consistent with full - thickness macular hole and epiretinal membrane. a mild full - thickness macular hole is centered at the fovea, with multiple mild intraretinal cysts in the foveal and parafoveal regions at mid - height of the scan. a marked epiretinal membrane, in a few components, involves the fovea and the periphery across about half of the scan width. no subretinal fluid, pigment epithelial detachment, or double layer sign is present.",
+        "Expected_Text": "Findings are consistent with a full-thickness macular hole and posterior vitreous detachment. A mild full-thickness macular hole lies at the fovea in the middle of the scan with multiple mild intraretinal cysts in the foveal and parafoveal regions, and a single moderate operculum is seen at the fovea toward the upper part of the scan. A solitary moderate posterior hyaloid membrane is present peripherally in the upper portion. No epiretinal membrane, subretinal fluid, or pigment epithelial detachment is seen.",
+        "diagnosed_diseases": "ftmh, erm",
+        "generated_report": "findings are consistent with full - thickness macular hole and epiretinal membrane. a mild full - thickness macular hole is centered at the fovea, with multiple mild intraretinal cysts in the foveal and parafoveal regions at mid - height of the scan. a marked epiretinal membrane, in a few components, involves the fovea and the periphery across about half of the scan width. no subretinal fluid, pigment epithelial detachment, or double layer sign is present."
+    },
+    {
+        "image_path": "sample_0165.png",
+        "image_label": "FTMH,PVD",
+        "generated_text": "diagnosed disease : ftmh, erm, layer information : findings are consistent with full - thickness macular hole and epiretinal membrane. a mild full - thickness macular hole is centered at the fovea, with multiple mild intraretinal cysts in the foveal and parafoveal regions at mid - height of the scan. a marked epiretinal membrane, in a few components, involves the fovea and the periphery across about half of the scan width. no subretinal fluid, pigment epithelial detachment, or double layer sign is present.",
+        "Expected_Text": "The scan is consistent with posterior vitreous detachment and a full-thickness macular hole. A single moderate operculum sits at the fovea in the upper part of the scan, above a focal mild full-thickness macular hole and multiple mild intraretinal cysts in the foveal and parafoveal regions in the middle of the scan. Peripherally, near the top of the scan, a solitary moderate posterior hyaloid membrane is visible. Outer retinal atrophy, hyperreflective intraretinal points, and epiretinal membrane are absent.",
+        "diagnosed_diseases": "ftmh, erm",
+        "generated_report": "findings are consistent with full - thickness macular hole and epiretinal membrane. a mild full - thickness macular hole is centered at the fovea, with multiple mild intraretinal cysts in the foveal and parafoveal regions at mid - height of the scan. a marked epiretinal membrane, in a few components, involves the fovea and the periphery across about half of the scan width. no subretinal fluid, pigment epithelial detachment, or double layer sign is present."
+    },
+    {
+        "image_path": "sample_0165.png",
+        "image_label": "FTMH,PVD",
+        "generated_text": "diagnosed disease : ftmh, erm, layer information : findings are consistent with full - thickness macular hole and epiretinal membrane. a mild full - thickness macular hole is centered at the fovea, with multiple mild intraretinal cysts in the foveal and parafoveal regions at mid - height of the scan. a marked epiretinal membrane, in a few components, involves the fovea and the periphery across about half of the scan width. no subretinal fluid, pigment epithelial detachment, or double layer sign is present.",
+        "Expected_Text": "Overall picture: full-thickness macular hole with posterior vitreous detachment. Peripherally in the upper portion of the scan, a moderate posterior hyaloid membrane appears as a single structure, while at the fovea there is a moderate operculum toward the top of the scan and a mild full-thickness macular hole in the middle. Multiple mild intraretinal cysts involve the foveal and parafoveal regions. There is no evidence of subretinal hyperreflective material, pigment epithelial detachment, or subretinal fluid.",
+        "diagnosed_diseases": "ftmh, erm",
+        "generated_report": "findings are consistent with full - thickness macular hole and epiretinal membrane. a mild full - thickness macular hole is centered at the fovea, with multiple mild intraretinal cysts in the foveal and parafoveal regions at mid - height of the scan. a marked epiretinal membrane, in a few components, involves the fovea and the periphery across about half of the scan width. no subretinal fluid, pigment epithelial detachment, or double layer sign is present."
+    },
+    {
+        "image_path": "sample_0188.png",
+        "image_label": "RAO",
+        "generated_text": "diagnosed disease : no, layer information : this b - scan shows no significant retinal pathology. there is no epiretinal membrane, subretinal fluid, or pigment epithelial detachment, and intraretinal cysts are not seen.",
+        "Expected_Text": "Findings are consistent with retinal artery occlusion. A single moderate intraretinal hyperreflective inclusion is present in the parafoveal region at mid-height, covering about half the width of the scan. No intraretinal cysts, subretinal fluid, or pigment epithelial detachment is seen.",
+        "diagnosed_diseases": "no",
+        "generated_report": "this b - scan shows no significant retinal pathology. there is no epiretinal membrane, subretinal fluid, or pigment epithelial detachment, and intraretinal cysts are not seen."
+    },
+    {
+        "image_path": "sample_0188.png",
+        "image_label": "RAO",
+        "generated_text": "diagnosed disease : no, layer information : this b - scan shows no significant retinal pathology. there is no epiretinal membrane, subretinal fluid, or pigment epithelial detachment, and intraretinal cysts are not seen.",
+        "Expected_Text": "The scan is consistent with retinal artery occlusion. In the middle portion of the B-scan, parafoveally, there is a solitary moderate intraretinal hyperreflective inclusion involving roughly half of the scan width. Epiretinal membrane, posterior hyaloid membrane, and outer retinal atrophy are absent.",
+        "diagnosed_diseases": "no",
+        "generated_report": "this b - scan shows no significant retinal pathology. there is no epiretinal membrane, subretinal fluid, or pigment epithelial detachment, and intraretinal cysts are not seen."
+    },
+    {
+        "image_path": "sample_0188.png",
+        "image_label": "RAO",
+        "generated_text": "diagnosed disease : no, layer information : this b - scan shows no significant retinal pathology. there is no epiretinal membrane, subretinal fluid, or pigment epithelial detachment, and intraretinal cysts are not seen.",
+        "Expected_Text": "Overall picture: retinal artery occlusion. A moderate intraretinal hyperreflective inclusion, single and parafoveal, lies at mid-height across a broad segment of the scan. There is no double layer sign, hyperreflective intraretinal points, or full-thickness macular hole.",
+        "diagnosed_diseases": "no",
+        "generated_report": "this b - scan shows no significant retinal pathology. there is no epiretinal membrane, subretinal fluid, or pigment epithelial detachment, and intraretinal cysts are not seen."
+    },
+    {
+        "image_path": "sample_0192.png",
+        "image_label": "AMD_mid,ERM",
+        "generated_text": "diagnosed disease : vma, rao, layer information : the scan is consistent with vitreomacular adhesion and retinal artery occlusion. a few marked posterior hyaloid membrane segments lie peripherally, in the middle and upper parts of the scan, over a wide segment of its width. marked intraretinal hyperreflective inclusions, also a few in number, occupy the parafoveal region at mid - height. there is no subretinal fluid, intraretinal cysts, or epiretinal membrane.",
+        "Expected_Text": "Findings are consistent with intermediate age-related macular degeneration and epiretinal membrane. A single marked pigment epithelial detachment is centered at the fovea in the middle of the scan. A few foci of moderate epiretinal membrane are seen at the fovea and peripherally at mid-height. No subretinal fluid, intraretinal cysts, or outer retinal atrophy is present.",
+        "diagnosed_diseases": "vma, rao",
+        "generated_report": "the scan is consistent with vitreomacular adhesion and retinal artery occlusion. a few marked posterior hyaloid membrane segments lie peripherally, in the middle and upper parts of the scan, over a wide segment of its width. marked intraretinal hyperreflective inclusions, also a few in number, occupy the parafoveal region at mid - height. there is no subretinal fluid, intraretinal cysts, or epiretinal membrane."
+    },
+    {
+        "image_path": "sample_0192.png",
+        "image_label": "AMD_mid,ERM",
+        "generated_text": "diagnosed disease : vma, rao, layer information : the scan is consistent with vitreomacular adhesion and retinal artery occlusion. a few marked posterior hyaloid membrane segments lie peripherally, in the middle and upper parts of the scan, over a wide segment of its width. marked intraretinal hyperreflective inclusions, also a few in number, occupy the parafoveal region at mid - height. there is no subretinal fluid, intraretinal cysts, or epiretinal membrane.",
+        "Expected_Text": "Epiretinal membrane with intermediate age-related macular degeneration is the overall picture. Moderate epiretinal membrane, in a few components, lies at the fovea and peripherally in the middle of the B-scan, and a solitary marked pigment epithelial detachment occupies the fovea. Cuticular drusen, double layer sign, and reticular drusen are not seen.",
+        "diagnosed_diseases": "vma, rao",
+        "generated_report": "the scan is consistent with vitreomacular adhesion and retinal artery occlusion. a few marked posterior hyaloid membrane segments lie peripherally, in the middle and upper parts of the scan, over a wide segment of its width. marked intraretinal hyperreflective inclusions, also a few in number, occupy the parafoveal region at mid - height. there is no subretinal fluid, intraretinal cysts, or epiretinal membrane."
+    },
+    {
+        "image_path": "sample_0192.png",
+        "image_label": "AMD_mid,ERM",
+        "generated_text": "diagnosed disease : vma, rao, layer information : the scan is consistent with vitreomacular adhesion and retinal artery occlusion. a few marked posterior hyaloid membrane segments lie peripherally, in the middle and upper parts of the scan, over a wide segment of its width. marked intraretinal hyperreflective inclusions, also a few in number, occupy the parafoveal region at mid - height. there is no subretinal fluid, intraretinal cysts, or epiretinal membrane.",
+        "Expected_Text": "The scan is consistent with intermediate age-related macular degeneration together with epiretinal membrane. At the fovea, a solitary marked pigment epithelial detachment is present at mid-height of the scan, and a few segments of moderate epiretinal membrane are distributed between the fovea and the periphery. There is no evidence of hyperreflective intraretinal points, posterior hyaloid membrane, or subretinal hyperreflective material.",
+        "diagnosed_diseases": "vma, rao",
+        "generated_report": "the scan is consistent with vitreomacular adhesion and retinal artery occlusion. a few marked posterior hyaloid membrane segments lie peripherally, in the middle and upper parts of the scan, over a wide segment of its width. marked intraretinal hyperreflective inclusions, also a few in number, occupy the parafoveal region at mid - height. there is no subretinal fluid, intraretinal cysts, or epiretinal membrane."
+    },
+    {
+        "image_path": "sample_0204.png",
+        "image_label": "RVO,VMA",
+        "generated_text": "diagnosed disease : vma, erm, layer information : findings are consistent with vitreomacular adhesion and epiretinal membrane. a few segments of marked posterior hyaloid membrane extend across the parafoveal and peripheral retina in the upper part of the scan, covering a wide portion of its width, and a small mild epiretinal membrane in two foci lies parafoveally in the middle of the scan. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is seen.",
+        "Expected_Text": "Findings are consistent with retinal vein occlusion and vitreomacular adhesion. A few marked intraretinal cysts lie in the parafoveal region and peripherally in the middle of the scan, and a single marked subretinal fluid pocket is present at the fovea. A few moderate hyperreflective intraretinal points cluster at the fovea, and a few marked posterior hyaloid membranes are seen in the parafoveal region toward the upper part of the scan, over a wide segment of its width. No pigment epithelial detachment, epiretinal membrane or outer retinal atrophy is present.",
+        "diagnosed_diseases": "vma, erm",
+        "generated_report": "findings are consistent with vitreomacular adhesion and epiretinal membrane. a few segments of marked posterior hyaloid membrane extend across the parafoveal and peripheral retina in the upper part of the scan, covering a wide portion of its width, and a small mild epiretinal membrane in two foci lies parafoveally in the middle of the scan. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is seen."
+    },
+    {
+        "image_path": "sample_0204.png",
+        "image_label": "RVO,VMA",
+        "generated_text": "diagnosed disease : vma, erm, layer information : findings are consistent with vitreomacular adhesion and epiretinal membrane. a few segments of marked posterior hyaloid membrane extend across the parafoveal and peripheral retina in the upper part of the scan, covering a wide portion of its width, and a small mild epiretinal membrane in two foci lies parafoveally in the middle of the scan. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is seen.",
+        "Expected_Text": "The scan is consistent with vitreomacular adhesion and retinal vein occlusion. At the fovea, in the middle of the scan, there is a solitary marked subretinal fluid collection along with a few moderate hyperreflective intraretinal points. Marked posterior hyaloid membrane occurs in a few segments in the parafoveal region toward the top of the scan, and marked intraretinal cysts in a few foci in the parafoveal and peripheral retina. Full-thickness macular hole, cuticular drusen and subretinal hyperreflective material are absent.",
+        "diagnosed_diseases": "vma, erm",
+        "generated_report": "findings are consistent with vitreomacular adhesion and epiretinal membrane. a few segments of marked posterior hyaloid membrane extend across the parafoveal and peripheral retina in the upper part of the scan, covering a wide portion of its width, and a small mild epiretinal membrane in two foci lies parafoveally in the middle of the scan. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is seen."
+    },
+    {
+        "image_path": "sample_0204.png",
+        "image_label": "RVO,VMA",
+        "generated_text": "diagnosed disease : vma, erm, layer information : findings are consistent with vitreomacular adhesion and epiretinal membrane. a few segments of marked posterior hyaloid membrane extend across the parafoveal and peripheral retina in the upper part of the scan, covering a wide portion of its width, and a small mild epiretinal membrane in two foci lies parafoveally in the middle of the scan. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is seen.",
+        "Expected_Text": "Overall picture: retinal vein occlusion with vitreomacular adhesion. Marked posterior hyaloid membrane is seen in a few parafoveal segments in the upper part of the scan over a wide portion of its width. In the middle of the scan, a few marked intraretinal cysts are located in the parafoveal region and periphery, while at the fovea there are a single marked subretinal fluid pocket and a few moderate hyperreflective intraretinal points. Reticular drusen, double layer sign and lamellar macular hole are not seen.",
+        "diagnosed_diseases": "vma, erm",
+        "generated_report": "findings are consistent with vitreomacular adhesion and epiretinal membrane. a few segments of marked posterior hyaloid membrane extend across the parafoveal and peripheral retina in the upper part of the scan, covering a wide portion of its width, and a small mild epiretinal membrane in two foci lies parafoveally in the middle of the scan. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is seen."
+    },
+    {
+        "image_path": "sample_0218.png",
+        "image_label": "VMA,AMD_late,ERM",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent.",
+        "Expected_Text": "Findings are consistent with vitreomacular adhesion, late age-related macular degeneration and epiretinal membrane. A moderate epiretinal membrane in multiple foci spans the parafoveal region and periphery over most of the scan width in the middle and upper parts of the scan, with a marked posterior hyaloid membrane in a few peripheral segments across nearly the full width of the scan. In the middle of the scan lie a solitary moderate subretinal hyperreflective material, a single moderate double layer sign and a few marked outer retinal tubulations at the fovea, plus a few mild intraretinal cysts and a single tiny mild outer retinal atrophy focus in the parafoveal region. No cuticular drusen, subretinal fluid or pigment epithelial detachment is seen.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent."
+    },
+    {
+        "image_path": "sample_0218.png",
+        "image_label": "VMA,AMD_late,ERM",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent.",
+        "Expected_Text": "The scan is consistent with late age-related macular degeneration, vitreomacular adhesion and epiretinal membrane. At the fovea in the middle of the scan there are a solitary moderate subretinal hyperreflective material, a single moderate double layer sign and a few marked outer retinal tubulations, and in the parafoveal region a few mild intraretinal cysts and a tiny solitary mild outer retinal atrophy. A moderate epiretinal membrane in multiple foci covers most of the scan width in the middle and upper parts of the scan, and a marked posterior hyaloid membrane in a few segments lies peripherally over nearly the full width of the scan. Hyperreflective intraretinal points, subretinal fluid and reticular drusen are absent.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent."
+    },
+    {
+        "image_path": "sample_0218.png",
+        "image_label": "VMA,AMD_late,ERM",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent.",
+        "Expected_Text": "Overall picture: late age-related macular degeneration with epiretinal membrane and vitreomacular adhesion. Peripherally, a marked posterior hyaloid membrane in a few segments spans nearly the full scan width in the middle and upper parts of the scan, together with a moderate epiretinal membrane in multiple parafoveal and peripheral foci. Foveal findings in the middle of the scan comprise a single moderate subretinal hyperreflective material, a single moderate double layer sign and a few marked outer retinal tubulations, while the parafoveal region shows a few mild intraretinal cysts and a very small solitary mild outer retinal atrophy. There is no pigment epithelial detachment, cuticular drusen or subretinal fluid.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with epiretinal membrane and late age - related macular degeneration. a moderate double layer sign, in a few foci, involves the fovea and parafoveal region in the middle of the scan. parafoveally and peripherally, a marked epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts of the scan, and a few tiny mild cuticular drusen are seen peripherally toward the top of the scan. reticular drusen, outer retinal atrophy and subretinal fluid are absent."
+    },
+    {
+        "image_path": "sample_0220.png",
+        "image_label": "PVD,DME",
+        "generated_text": "diagnosed disease : erm, amd _ early, dme, layer information : the scan is consistent with diabetic macular edema, early age - related macular degeneration and epiretinal membrane. multiple marked reticular drusen are distributed across the fovea, parafoveal region and periphery toward the top of the scan, over a wide segment of the scan. a few foci of moderate epiretinal membrane are seen in the parafoveal region and periphery in the same part of the scan. cuticular drusen, subretinal fluid and outer retinal atrophy are absent.",
+        "Expected_Text": "Findings are consistent with posterior vitreous detachment and diabetic macular edema. A solitary marked posterior hyaloid membrane spans the full width of the scan at the fovea, in the upper part of the B-scan. No intraretinal cysts, subretinal fluid, or epiretinal membrane is seen.",
+        "diagnosed_diseases": "erm, amd _ early, dme",
+        "generated_report": "the scan is consistent with diabetic macular edema, early age - related macular degeneration and epiretinal membrane. multiple marked reticular drusen are distributed across the fovea, parafoveal region and periphery toward the top of the scan, over a wide segment of the scan. a few foci of moderate epiretinal membrane are seen in the parafoveal region and periphery in the same part of the scan. cuticular drusen, subretinal fluid and outer retinal atrophy are absent."
+    },
+    {
+        "image_path": "sample_0220.png",
+        "image_label": "PVD,DME",
+        "generated_text": "diagnosed disease : erm, amd _ early, dme, layer information : the scan is consistent with diabetic macular edema, early age - related macular degeneration and epiretinal membrane. multiple marked reticular drusen are distributed across the fovea, parafoveal region and periphery toward the top of the scan, over a wide segment of the scan. a few foci of moderate epiretinal membrane are seen in the parafoveal region and periphery in the same part of the scan. cuticular drusen, subretinal fluid and outer retinal atrophy are absent.",
+        "Expected_Text": "The scan is consistent with diabetic macular edema and posterior vitreous detachment. Toward the top of the scan, a single marked posterior hyaloid membrane extends across nearly the entire width of the image, centered at the fovea. Hyperreflective intraretinal points, pigment epithelial detachment, and double layer sign are absent.",
+        "diagnosed_diseases": "erm, amd _ early, dme",
+        "generated_report": "the scan is consistent with diabetic macular edema, early age - related macular degeneration and epiretinal membrane. multiple marked reticular drusen are distributed across the fovea, parafoveal region and periphery toward the top of the scan, over a wide segment of the scan. a few foci of moderate epiretinal membrane are seen in the parafoveal region and periphery in the same part of the scan. cuticular drusen, subretinal fluid and outer retinal atrophy are absent."
+    },
+    {
+        "image_path": "sample_0220.png",
+        "image_label": "PVD,DME",
+        "generated_text": "diagnosed disease : erm, amd _ early, dme, layer information : the scan is consistent with diabetic macular edema, early age - related macular degeneration and epiretinal membrane. multiple marked reticular drusen are distributed across the fovea, parafoveal region and periphery toward the top of the scan, over a wide segment of the scan. a few foci of moderate epiretinal membrane are seen in the parafoveal region and periphery in the same part of the scan. cuticular drusen, subretinal fluid and outer retinal atrophy are absent.",
+        "Expected_Text": "Overall picture: posterior vitreous detachment with diabetic macular edema. The only finding is a single marked posterior hyaloid membrane running across the whole upper scan, including the fovea. The scan is free of cuticular drusen, outer retinal atrophy, and subretinal hyperreflective material.",
+        "diagnosed_diseases": "erm, amd _ early, dme",
+        "generated_report": "the scan is consistent with diabetic macular edema, early age - related macular degeneration and epiretinal membrane. multiple marked reticular drusen are distributed across the fovea, parafoveal region and periphery toward the top of the scan, over a wide segment of the scan. a few foci of moderate epiretinal membrane are seen in the parafoveal region and periphery in the same part of the scan. cuticular drusen, subretinal fluid and outer retinal atrophy are absent."
+    },
+    {
+        "image_path": "sample_0224.png",
+        "image_label": "LH,ERM",
+        "generated_text": "diagnosed disease : erm, lh, layer information : overall picture : epiretinal membrane with lamellar macular hole. across the fovea and parafoveal region, in a wide segment of the scan ' s middle and upper parts, a few segments of marked epiretinal membrane are seen. at the fovea lies a focal mild lamellar macular hole with multiple mild intraretinal cysts. the scan shows no evidence of outer retinal atrophy, reticular drusen, or hyperreflective intraretinal points.",
+        "Expected_Text": "Findings are consistent with lamellar macular hole and epiretinal membrane. A marked epiretinal membrane in a few segments involves a wide segment of the scan across the fovea, parafoveal region, and periphery, in the middle and upper portions of the image. A moderate lamellar macular hole sits at the fovea, with a few mild intraretinal cysts in the foveal and parafoveal region. No subretinal fluid, pigment epithelial detachment, or posterior hyaloid membrane is seen.",
+        "diagnosed_diseases": "erm, lh",
+        "generated_report": "overall picture : epiretinal membrane with lamellar macular hole. across the fovea and parafoveal region, in a wide segment of the scan ' s middle and upper parts, a few segments of marked epiretinal membrane are seen. at the fovea lies a focal mild lamellar macular hole with multiple mild intraretinal cysts. the scan shows no evidence of outer retinal atrophy, reticular drusen, or hyperreflective intraretinal points."
+    },
+    {
+        "image_path": "sample_0224.png",
+        "image_label": "LH,ERM",
+        "generated_text": "diagnosed disease : erm, lh, layer information : overall picture : epiretinal membrane with lamellar macular hole. across the fovea and parafoveal region, in a wide segment of the scan ' s middle and upper parts, a few segments of marked epiretinal membrane are seen. at the fovea lies a focal mild lamellar macular hole with multiple mild intraretinal cysts. the scan shows no evidence of outer retinal atrophy, reticular drusen, or hyperreflective intraretinal points.",
+        "Expected_Text": "The scan is consistent with epiretinal membrane and lamellar macular hole. At the fovea there is a focal moderate lamellar macular hole in the middle of the scan, flanked by a few mild intraretinal cysts extending into the parafoveal region. A marked epiretinal membrane in a few segments spans a wide part of the B-scan from the fovea to the periphery, in its middle and upper portions. Hyperreflective intraretinal points, outer retinal atrophy, and cuticular drusen are absent.",
+        "diagnosed_diseases": "erm, lh",
+        "generated_report": "overall picture : epiretinal membrane with lamellar macular hole. across the fovea and parafoveal region, in a wide segment of the scan ' s middle and upper parts, a few segments of marked epiretinal membrane are seen. at the fovea lies a focal mild lamellar macular hole with multiple mild intraretinal cysts. the scan shows no evidence of outer retinal atrophy, reticular drusen, or hyperreflective intraretinal points."
+    },
+    {
+        "image_path": "sample_0224.png",
+        "image_label": "LH,ERM",
+        "generated_text": "diagnosed disease : erm, lh, layer information : overall picture : epiretinal membrane with lamellar macular hole. across the fovea and parafoveal region, in a wide segment of the scan ' s middle and upper parts, a few segments of marked epiretinal membrane are seen. at the fovea lies a focal mild lamellar macular hole with multiple mild intraretinal cysts. the scan shows no evidence of outer retinal atrophy, reticular drusen, or hyperreflective intraretinal points.",
+        "Expected_Text": "Overall picture: epiretinal membrane with lamellar macular hole. A few mild intraretinal cysts lie at the fovea and in the parafoveal region, alongside a moderate lamellar macular hole at the fovea. Across a wide segment of the scan, in the middle and upper parts of the image, a marked epiretinal membrane extends foveally, parafoveally, and peripherally in a few segments. There is no evidence of full-thickness macular hole, double layer sign, or reticular drusen.",
+        "diagnosed_diseases": "erm, lh",
+        "generated_report": "overall picture : epiretinal membrane with lamellar macular hole. across the fovea and parafoveal region, in a wide segment of the scan ' s middle and upper parts, a few segments of marked epiretinal membrane are seen. at the fovea lies a focal mild lamellar macular hole with multiple mild intraretinal cysts. the scan shows no evidence of outer retinal atrophy, reticular drusen, or hyperreflective intraretinal points."
+    },
+    {
+        "image_path": "sample_0247.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : vma, dme, amd _ early, layer information : overall picture : diabetic macular edema, vitreomacular adhesion and early age - related macular degeneration. hyperreflective intraretinal points toward the upper part of the scan, multiple marked posterior hyaloid membrane spans the foveal, parafoveal, and peripheral regions, and a few mild intraretinal cysts lie at the fovea. multiple marked hyperreflective intraretinal points are scattered through the middle and upper portions. there is no lamellar macular hole, full - thickness macular hole, or intraretinal cysts.",
+        "Expected_Text": "Findings are consistent with late age-related macular degeneration and posterior vitreous detachment. A solitary marked posterior hyaloid membrane crosses nearly the full width of the scan in its upper part, centered at the fovea. A few mild subretinal fluid pockets are distributed from the fovea to the periphery in the middle and upper scan, and a solitary moderate double layer sign lies at the fovea. No epiretinal membrane, intraretinal cysts, or pigment epithelial detachment is seen.",
+        "diagnosed_diseases": "vma, dme, amd _ early",
+        "generated_report": "overall picture : diabetic macular edema, vitreomacular adhesion and early age - related macular degeneration. hyperreflective intraretinal points toward the upper part of the scan, multiple marked posterior hyaloid membrane spans the foveal, parafoveal, and peripheral regions, and a few mild intraretinal cysts lie at the fovea. multiple marked hyperreflective intraretinal points are scattered through the middle and upper portions. there is no lamellar macular hole, full - thickness macular hole, or intraretinal cysts."
+    },
+    {
+        "image_path": "sample_0247.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : vma, dme, amd _ early, layer information : overall picture : diabetic macular edema, vitreomacular adhesion and early age - related macular degeneration. hyperreflective intraretinal points toward the upper part of the scan, multiple marked posterior hyaloid membrane spans the foveal, parafoveal, and peripheral regions, and a few mild intraretinal cysts lie at the fovea. multiple marked hyperreflective intraretinal points are scattered through the middle and upper portions. there is no lamellar macular hole, full - thickness macular hole, or intraretinal cysts.",
+        "Expected_Text": "The scan is consistent with posterior vitreous detachment and late age-related macular degeneration. A moderate double layer sign, single and foveal, occupies the middle of the scan, and a few mild subretinal fluid pockets extend across the foveal, parafoveal, and peripheral regions in the middle and upper portions. In the upper part of the image a marked posterior hyaloid membrane spans almost the entire scan width. Outer retinal atrophy, cuticular drusen, and subretinal hyperreflective material are absent.",
+        "diagnosed_diseases": "vma, dme, amd _ early",
+        "generated_report": "overall picture : diabetic macular edema, vitreomacular adhesion and early age - related macular degeneration. hyperreflective intraretinal points toward the upper part of the scan, multiple marked posterior hyaloid membrane spans the foveal, parafoveal, and peripheral regions, and a few mild intraretinal cysts lie at the fovea. multiple marked hyperreflective intraretinal points are scattered through the middle and upper portions. there is no lamellar macular hole, full - thickness macular hole, or intraretinal cysts."
+    },
+    {
+        "image_path": "sample_0247.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : vma, dme, amd _ early, layer information : overall picture : diabetic macular edema, vitreomacular adhesion and early age - related macular degeneration. hyperreflective intraretinal points toward the upper part of the scan, multiple marked posterior hyaloid membrane spans the foveal, parafoveal, and peripheral regions, and a few mild intraretinal cysts lie at the fovea. multiple marked hyperreflective intraretinal points are scattered through the middle and upper portions. there is no lamellar macular hole, full - thickness macular hole, or intraretinal cysts.",
+        "Expected_Text": "Overall picture: late age-related macular degeneration with posterior vitreous detachment. A single marked posterior hyaloid membrane, foveal and toward the upper part of the scan, spans nearly the full scan width. Mild subretinal fluid in a few pockets covers a wide part of the scan from fovea to periphery, with a solitary moderate double layer sign at the fovea. There is no evidence of hyperreflective intraretinal points, reticular drusen, or full-thickness macular hole.",
+        "diagnosed_diseases": "vma, dme, amd _ early",
+        "generated_report": "overall picture : diabetic macular edema, vitreomacular adhesion and early age - related macular degeneration. hyperreflective intraretinal points toward the upper part of the scan, multiple marked posterior hyaloid membrane spans the foveal, parafoveal, and peripheral regions, and a few mild intraretinal cysts lie at the fovea. multiple marked hyperreflective intraretinal points are scattered through the middle and upper portions. there is no lamellar macular hole, full - thickness macular hole, or intraretinal cysts."
+    },
+    {
+        "image_path": "sample_0250.png",
+        "image_label": "DME",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with late age - related macular degeneration and epiretinal membrane. at the fovea, in the middle of the b - scan, multiple moderate intraretinal cysts are accompanied by a single marked double layer sign extending over a wide segment. a focal mild epiretinal membrane is noted parafoveally. hyperreflective intraretinal points, cuticular drusen, and outer retinal atrophy are absent.",
+        "Expected_Text": "Findings are consistent with diabetic macular edema. Numerous marked intraretinal cysts and multiple marked hyperreflective intraretinal points are distributed across the foveal, parafoveal, and peripheral regions in the middle and upper parts of the scan. No subretinal fluid, pigment epithelial detachment, or epiretinal membrane is seen.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with late age - related macular degeneration and epiretinal membrane. at the fovea, in the middle of the b - scan, multiple moderate intraretinal cysts are accompanied by a single marked double layer sign extending over a wide segment. a focal mild epiretinal membrane is noted parafoveally. hyperreflective intraretinal points, cuticular drusen, and outer retinal atrophy are absent."
+    },
+    {
+        "image_path": "sample_0250.png",
+        "image_label": "DME",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with late age - related macular degeneration and epiretinal membrane. at the fovea, in the middle of the b - scan, multiple moderate intraretinal cysts are accompanied by a single marked double layer sign extending over a wide segment. a focal mild epiretinal membrane is noted parafoveally. hyperreflective intraretinal points, cuticular drusen, and outer retinal atrophy are absent.",
+        "Expected_Text": "The scan is consistent with diabetic macular edema. Marked hyperreflective intraretinal points, multiple in number, span a wide segment of the scan from the fovea to the periphery, in the middle and upper portions, alongside numerous marked intraretinal cysts. Outer retinal atrophy, subretinal hyperreflective material, and full-thickness macular hole are absent.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with late age - related macular degeneration and epiretinal membrane. at the fovea, in the middle of the b - scan, multiple moderate intraretinal cysts are accompanied by a single marked double layer sign extending over a wide segment. a focal mild epiretinal membrane is noted parafoveally. hyperreflective intraretinal points, cuticular drusen, and outer retinal atrophy are absent."
+    },
+    {
+        "image_path": "sample_0250.png",
+        "image_label": "DME",
+        "generated_text": "diagnosed disease : erm, amd _ late, layer information : the scan is consistent with late age - related macular degeneration and epiretinal membrane. at the fovea, in the middle of the b - scan, multiple moderate intraretinal cysts are accompanied by a single marked double layer sign extending over a wide segment. a focal mild epiretinal membrane is noted parafoveally. hyperreflective intraretinal points, cuticular drusen, and outer retinal atrophy are absent.",
+        "Expected_Text": "Overall picture: diabetic macular edema. Across the fovea, parafoveal region, and periphery there are numerous marked intraretinal cysts, accompanied by multiple marked hyperreflective intraretinal points, involving the middle and upper parts of the B-scan. There is no evidence of subretinal fluid, pigment epithelial detachment, or epiretinal membrane.",
+        "diagnosed_diseases": "erm, amd _ late",
+        "generated_report": "the scan is consistent with late age - related macular degeneration and epiretinal membrane. at the fovea, in the middle of the b - scan, multiple moderate intraretinal cysts are accompanied by a single marked double layer sign extending over a wide segment. a focal mild epiretinal membrane is noted parafoveally. hyperreflective intraretinal points, cuticular drusen, and outer retinal atrophy are absent."
+    },
+    {
+        "image_path": "sample_0253.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : dme, erm, layer information : overall picture : diabetic macular edema with epiretinal membrane. toward the upper part of the scan, a wide segment shows a moderate epiretinal membrane in multiple segments at the fovea, parafoveal region, and periphery. peripherally there are multiple focal mild hyperreflective intraretinal points in the middle and upper portions of the image. the scan is free of cuticular drusen, double layer sign, and full - thickness macular hole.",
+        "Expected_Text": "Findings are consistent with late age-related macular degeneration. A solitary marked pigment epithelial detachment lies in the parafoveal region in the middle of the scan, with a single focal mild double layer sign at the fovea. No subretinal fluid, epiretinal membrane, or intraretinal cysts is seen.",
+        "diagnosed_diseases": "dme, erm",
+        "generated_report": "overall picture : diabetic macular edema with epiretinal membrane. toward the upper part of the scan, a wide segment shows a moderate epiretinal membrane in multiple segments at the fovea, parafoveal region, and periphery. peripherally there are multiple focal mild hyperreflective intraretinal points in the middle and upper portions of the image. the scan is free of cuticular drusen, double layer sign, and full - thickness macular hole."
+    },
+    {
+        "image_path": "sample_0253.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : dme, erm, layer information : overall picture : diabetic macular edema with epiretinal membrane. toward the upper part of the scan, a wide segment shows a moderate epiretinal membrane in multiple segments at the fovea, parafoveal region, and periphery. peripherally there are multiple focal mild hyperreflective intraretinal points in the middle and upper portions of the image. the scan is free of cuticular drusen, double layer sign, and full - thickness macular hole.",
+        "Expected_Text": "The scan is consistent with late age-related macular degeneration. A tiny mild double layer sign is seen at the fovea, and a marked pigment epithelial detachment, single and parafoveal, lies in the middle of the scan. Posterior hyaloid membrane, subretinal hyperreflective material, and cuticular drusen are absent.",
+        "diagnosed_diseases": "dme, erm",
+        "generated_report": "overall picture : diabetic macular edema with epiretinal membrane. toward the upper part of the scan, a wide segment shows a moderate epiretinal membrane in multiple segments at the fovea, parafoveal region, and periphery. peripherally there are multiple focal mild hyperreflective intraretinal points in the middle and upper portions of the image. the scan is free of cuticular drusen, double layer sign, and full - thickness macular hole."
+    },
+    {
+        "image_path": "sample_0253.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : dme, erm, layer information : overall picture : diabetic macular edema with epiretinal membrane. toward the upper part of the scan, a wide segment shows a moderate epiretinal membrane in multiple segments at the fovea, parafoveal region, and periphery. peripherally there are multiple focal mild hyperreflective intraretinal points in the middle and upper portions of the image. the scan is free of cuticular drusen, double layer sign, and full - thickness macular hole.",
+        "Expected_Text": "Overall picture: late age-related macular degeneration. In the middle of the scan a single marked pigment epithelial detachment is parafoveal, accompanied by a single small mild double layer sign at the fovea. There is no evidence of hyperreflective intraretinal points, outer retinal atrophy, or reticular drusen.",
+        "diagnosed_diseases": "dme, erm",
+        "generated_report": "overall picture : diabetic macular edema with epiretinal membrane. toward the upper part of the scan, a wide segment shows a moderate epiretinal membrane in multiple segments at the fovea, parafoveal region, and periphery. peripherally there are multiple focal mild hyperreflective intraretinal points in the middle and upper portions of the image. the scan is free of cuticular drusen, double layer sign, and full - thickness macular hole."
+    },
+    {
+        "image_path": "sample_0255.png",
+        "image_label": "CSC,VMA",
+        "generated_text": "diagnosed disease : csc, layer information : overall picture : central serous chorioretinopathy. in the upper portion of the scan, a focal mild subretinal fluid collection lies at the fovea, and a small marked reticular drusen lesion and a mild outer retinal atrophy lie parafoveally, each single. a few mild posterior hyaloid membrane strands extend peripherally over nearly the full width. there is no full - thickness macular hole, hyperreflective intraretinal points, or lamellar macular hole.",
+        "Expected_Text": "Findings are consistent with central serous chorioretinopathy and vitreomacular adhesion. A single moderate subretinal fluid collection lies at the fovea in the middle of the scan, and a few mild posterior hyaloid membrane segments run peripherally in the upper part across nearly the full width. No pigment epithelial detachment, intraretinal cysts, or epiretinal membrane is seen.",
+        "diagnosed_diseases": "csc",
+        "generated_report": "overall picture : central serous chorioretinopathy. in the upper portion of the scan, a focal mild subretinal fluid collection lies at the fovea, and a small marked reticular drusen lesion and a mild outer retinal atrophy lie parafoveally, each single. a few mild posterior hyaloid membrane strands extend peripherally over nearly the full width. there is no full - thickness macular hole, hyperreflective intraretinal points, or lamellar macular hole."
+    },
+    {
+        "image_path": "sample_0255.png",
+        "image_label": "CSC,VMA",
+        "generated_text": "diagnosed disease : csc, layer information : overall picture : central serous chorioretinopathy. in the upper portion of the scan, a focal mild subretinal fluid collection lies at the fovea, and a small marked reticular drusen lesion and a mild outer retinal atrophy lie parafoveally, each single. a few mild posterior hyaloid membrane strands extend peripherally over nearly the full width. there is no full - thickness macular hole, hyperreflective intraretinal points, or lamellar macular hole.",
+        "Expected_Text": "The scan is consistent with vitreomacular adhesion and central serous chorioretinopathy. Toward the top of the B-scan, a mild posterior hyaloid membrane, in a few peripheral segments, spans almost the entire width. At the fovea, at mid-height, a focal solitary moderate subretinal fluid collection is present. Outer retinal atrophy, reticular drusen, and double layer sign are absent.",
+        "diagnosed_diseases": "csc",
+        "generated_report": "overall picture : central serous chorioretinopathy. in the upper portion of the scan, a focal mild subretinal fluid collection lies at the fovea, and a small marked reticular drusen lesion and a mild outer retinal atrophy lie parafoveally, each single. a few mild posterior hyaloid membrane strands extend peripherally over nearly the full width. there is no full - thickness macular hole, hyperreflective intraretinal points, or lamellar macular hole."
+    },
+    {
+        "image_path": "sample_0255.png",
+        "image_label": "CSC,VMA",
+        "generated_text": "diagnosed disease : csc, layer information : overall picture : central serous chorioretinopathy. in the upper portion of the scan, a focal mild subretinal fluid collection lies at the fovea, and a small marked reticular drusen lesion and a mild outer retinal atrophy lie parafoveally, each single. a few mild posterior hyaloid membrane strands extend peripherally over nearly the full width. there is no full - thickness macular hole, hyperreflective intraretinal points, or lamellar macular hole.",
+        "Expected_Text": "Overall picture: central serous chorioretinopathy with vitreomacular adhesion. A solitary moderate subretinal fluid collection sits at the fovea in the middle of the scan, and a few mild posterior hyaloid membrane strands extend peripherally in the upper portion over nearly the whole width. There is no subretinal hyperreflective material, cuticular drusen, or full-thickness macular hole.",
+        "diagnosed_diseases": "csc",
+        "generated_report": "overall picture : central serous chorioretinopathy. in the upper portion of the scan, a focal mild subretinal fluid collection lies at the fovea, and a small marked reticular drusen lesion and a mild outer retinal atrophy lie parafoveally, each single. a few mild posterior hyaloid membrane strands extend peripherally over nearly the full width. there is no full - thickness macular hole, hyperreflective intraretinal points, or lamellar macular hole."
+    },
+    {
+        "image_path": "sample_0342.png",
+        "image_label": "PVD,DME",
+        "generated_text": "diagnosed disease : vma, amd _ late, layer information : late age - related macular degeneration with vitreomacular adhesion is the overall picture. in a few components of a wide segment of the foveal and parafoveal region, shows a moderate pigment epithelial detachment in a few components at the fovea and parafoveally, with a single focus of mild subretinal fluid at the fovea, in the middle of the scan. there is no evidence of hyperreflective intraretinal points, posterior hyaloid membrane, or full - thickness macular hole.",
+        "Expected_Text": "Findings are consistent with posterior vitreous detachment and diabetic macular edema. A few moderate intraretinal cysts lie at the fovea and in the parafoveal region in the middle and upper parts of the scan, and a few moderate posterior hyaloid membrane segments span nearly the full width of the scan peripherally toward the top. No subretinal fluid, hyperreflective intraretinal points, or epiretinal membrane is seen.",
+        "diagnosed_diseases": "vma, amd _ late",
+        "generated_report": "late age - related macular degeneration with vitreomacular adhesion is the overall picture. in a few components of a wide segment of the foveal and parafoveal region, shows a moderate pigment epithelial detachment in a few components at the fovea and parafoveally, with a single focus of mild subretinal fluid at the fovea, in the middle of the scan. there is no evidence of hyperreflective intraretinal points, posterior hyaloid membrane, or full - thickness macular hole."
+    },
+    {
+        "image_path": "sample_0342.png",
+        "image_label": "PVD,DME",
+        "generated_text": "diagnosed disease : vma, amd _ late, layer information : late age - related macular degeneration with vitreomacular adhesion is the overall picture. in a few components of a wide segment of the foveal and parafoveal region, shows a moderate pigment epithelial detachment in a few components at the fovea and parafoveally, with a single focus of mild subretinal fluid at the fovea, in the middle of the scan. there is no evidence of hyperreflective intraretinal points, posterior hyaloid membrane, or full - thickness macular hole.",
+        "Expected_Text": "The scan is consistent with diabetic macular edema and posterior vitreous detachment. Peripherally, near the upper edge of the B-scan, a few moderate posterior hyaloid membrane segments cross nearly the entire scan width. Centrally, a few small moderate intraretinal cysts sit at the fovea and parafoveal region in the middle and upper portions. Pigment epithelial detachment, double layer sign, and outer retinal atrophy are absent.",
+        "diagnosed_diseases": "vma, amd _ late",
+        "generated_report": "late age - related macular degeneration with vitreomacular adhesion is the overall picture. in a few components of a wide segment of the foveal and parafoveal region, shows a moderate pigment epithelial detachment in a few components at the fovea and parafoveally, with a single focus of mild subretinal fluid at the fovea, in the middle of the scan. there is no evidence of hyperreflective intraretinal points, posterior hyaloid membrane, or full - thickness macular hole."
+    },
+    {
+        "image_path": "sample_0342.png",
+        "image_label": "PVD,DME",
+        "generated_text": "diagnosed disease : vma, amd _ late, layer information : late age - related macular degeneration with vitreomacular adhesion is the overall picture. in a few components of a wide segment of the foveal and parafoveal region, shows a moderate pigment epithelial detachment in a few components at the fovea and parafoveally, with a single focus of mild subretinal fluid at the fovea, in the middle of the scan. there is no evidence of hyperreflective intraretinal points, posterior hyaloid membrane, or full - thickness macular hole.",
+        "Expected_Text": "Overall picture: posterior vitreous detachment and diabetic macular edema. A few focal moderate intraretinal cysts are found at the fovea and parafoveal region, in the middle and upper parts of the scan, along with a few moderate posterior hyaloid membrane segments running peripherally across almost the whole upper scan. The scan is without cuticular drusen, subretinal hyperreflective material, or full-thickness macular hole.",
+        "diagnosed_diseases": "vma, amd _ late",
+        "generated_report": "late age - related macular degeneration with vitreomacular adhesion is the overall picture. in a few components of a wide segment of the foveal and parafoveal region, shows a moderate pigment epithelial detachment in a few components at the fovea and parafoveally, with a single focus of mild subretinal fluid at the fovea, in the middle of the scan. there is no evidence of hyperreflective intraretinal points, posterior hyaloid membrane, or full - thickness macular hole."
+    },
+    {
+        "image_path": "sample_0352.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : amd _ late, vma, layer information : overall picture : late age - related macular degeneration with vitreomacular adhesion. a marked posterior hyaloid membrane appears in a few peripheral segments across nearly the full width of the scan in the upper part of the scan, alongside a mild epiretinal membrane in a few foci across the foveal, parafoveal and peripheral regions. marked intraretinal cysts, multiple in number, cluster at the fovea and parafoveal region, and a few small moderate hyperreflective intraretinal points lie peripherally in the middle of the scan. there is no cuticular drusen, subretinal fluid or pigment epithelial detachment.",
+        "Expected_Text": "Findings are consistent with late age-related macular degeneration and posterior vitreous detachment. Marked intraretinal cysts in multiple foci lie at the fovea and parafoveal region at mid-scan level, while a marked posterior hyaloid membrane in a few segments spans the full scan width in the upper portion, parafoveally and peripherally. Toward the lower part of the scan there are moderate subretinal fluid in a few peripheral foci over a wide segment, a single moderate subretinal hyperreflective material at the fovea, and a marked double layer sign at the fovea. No cuticular drusen, epiretinal membrane, or pigment epithelial detachment is seen.",
+        "diagnosed_diseases": "amd _ late, vma",
+        "generated_report": "overall picture : late age - related macular degeneration with vitreomacular adhesion. a marked posterior hyaloid membrane appears in a few peripheral segments across nearly the full width of the scan in the upper part of the scan, alongside a mild epiretinal membrane in a few foci across the foveal, parafoveal and peripheral regions. marked intraretinal cysts, multiple in number, cluster at the fovea and parafoveal region, and a few small moderate hyperreflective intraretinal points lie peripherally in the middle of the scan. there is no cuticular drusen, subretinal fluid or pigment epithelial detachment."
+    },
+    {
+        "image_path": "sample_0352.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : amd _ late, vma, layer information : overall picture : late age - related macular degeneration with vitreomacular adhesion. a marked posterior hyaloid membrane appears in a few peripheral segments across nearly the full width of the scan in the upper part of the scan, alongside a mild epiretinal membrane in a few foci across the foveal, parafoveal and peripheral regions. marked intraretinal cysts, multiple in number, cluster at the fovea and parafoveal region, and a few small moderate hyperreflective intraretinal points lie peripherally in the middle of the scan. there is no cuticular drusen, subretinal fluid or pigment epithelial detachment.",
+        "Expected_Text": "The scan is consistent with posterior vitreous detachment and late age-related macular degeneration. In the upper part of the scan, a marked posterior hyaloid membrane in a few segments extends across the entire scan width, parafoveally and peripherally. The mid-scan band at the fovea and parafovea contains multiple marked intraretinal cysts, and the lower part of the scan shows a marked double layer sign and a single moderate subretinal hyperreflective material at the fovea, together with moderate subretinal fluid in a few peripheral foci. Reticular drusen, outer retinal atrophy, and hyperreflective intraretinal points are absent.",
+        "diagnosed_diseases": "amd _ late, vma",
+        "generated_report": "overall picture : late age - related macular degeneration with vitreomacular adhesion. a marked posterior hyaloid membrane appears in a few peripheral segments across nearly the full width of the scan in the upper part of the scan, alongside a mild epiretinal membrane in a few foci across the foveal, parafoveal and peripheral regions. marked intraretinal cysts, multiple in number, cluster at the fovea and parafoveal region, and a few small moderate hyperreflective intraretinal points lie peripherally in the middle of the scan. there is no cuticular drusen, subretinal fluid or pigment epithelial detachment."
+    },
+    {
+        "image_path": "sample_0352.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : amd _ late, vma, layer information : overall picture : late age - related macular degeneration with vitreomacular adhesion. a marked posterior hyaloid membrane appears in a few peripheral segments across nearly the full width of the scan in the upper part of the scan, alongside a mild epiretinal membrane in a few foci across the foveal, parafoveal and peripheral regions. marked intraretinal cysts, multiple in number, cluster at the fovea and parafoveal region, and a few small moderate hyperreflective intraretinal points lie peripherally in the middle of the scan. there is no cuticular drusen, subretinal fluid or pigment epithelial detachment.",
+        "Expected_Text": "Overall picture: late age-related macular degeneration with posterior vitreous detachment. At the fovea in the lower scan, a solitary marked double layer sign and a solitary moderate subretinal hyperreflective material are present, with moderate subretinal fluid peripherally in a few foci across a wide segment of the same lower part. Multiple marked intraretinal cysts appear in the foveal and parafoveal region at mid-scan level, and a marked posterior hyaloid membrane in a few segments runs across the upper scan. Cuticular drusen, epiretinal membrane, and outer retinal tubulation are not seen.",
+        "diagnosed_diseases": "amd _ late, vma",
+        "generated_report": "overall picture : late age - related macular degeneration with vitreomacular adhesion. a marked posterior hyaloid membrane appears in a few peripheral segments across nearly the full width of the scan in the upper part of the scan, alongside a mild epiretinal membrane in a few foci across the foveal, parafoveal and peripheral regions. marked intraretinal cysts, multiple in number, cluster at the fovea and parafoveal region, and a few small moderate hyperreflective intraretinal points lie peripherally in the middle of the scan. there is no cuticular drusen, subretinal fluid or pigment epithelial detachment."
+    },
+    {
+        "image_path": "sample_0356.png",
+        "image_label": "FTMH,AMD_late,ERM",
+        "generated_text": "diagnosed disease : ftmh, vmt, layer information : the scan is consistent with vitreomacular traction and a full - thickness macular hole. numerous moderate intraretinal cysts are distributed at the fovea, parafovea, and periphery in the middle and upper scan. a focal mild posterior hyaloid membrane, single, lies at the fovea toward the top, and a small mild full - thickness macular hole is noted parafoveally in the upper part. outer retinal atrophy, operculum, and hyperreflective intraretinal points are absent.",
+        "Expected_Text": "Findings are consistent with a full-thickness macular hole, late age-related macular degeneration and epiretinal membrane. A solitary marked full-thickness macular hole is centered at the fovea in the middle of the scan, with numerous moderate intraretinal cysts across the foveal and parafoveal regions in the middle and upper parts of the scan. A moderate pigment epithelial detachment in a few foci is seen parafoveally and peripherally in the middle of the scan, and a few foci of moderate epiretinal membrane cover most of the scan width in the middle and upper parts. No subretinal fluid, posterior hyaloid membrane or reticular drusen is present.",
+        "diagnosed_diseases": "ftmh, vmt",
+        "generated_report": "the scan is consistent with vitreomacular traction and a full - thickness macular hole. numerous moderate intraretinal cysts are distributed at the fovea, parafovea, and periphery in the middle and upper scan. a focal mild posterior hyaloid membrane, single, lies at the fovea toward the top, and a small mild full - thickness macular hole is noted parafoveally in the upper part. outer retinal atrophy, operculum, and hyperreflective intraretinal points are absent."
+    },
+    {
+        "image_path": "sample_0356.png",
+        "image_label": "FTMH,AMD_late,ERM",
+        "generated_text": "diagnosed disease : ftmh, vmt, layer information : the scan is consistent with vitreomacular traction and a full - thickness macular hole. numerous moderate intraretinal cysts are distributed at the fovea, parafovea, and periphery in the middle and upper scan. a focal mild posterior hyaloid membrane, single, lies at the fovea toward the top, and a small mild full - thickness macular hole is noted parafoveally in the upper part. outer retinal atrophy, operculum, and hyperreflective intraretinal points are absent.",
+        "Expected_Text": "The scan is consistent with late age-related macular degeneration, epiretinal membrane and a full-thickness macular hole. Numerous moderate intraretinal cysts are scattered through the fovea and parafoveal region, in the middle and upper parts of the scan, and a marked full-thickness macular hole is single and foveal in the middle of the scan. A moderate pigment epithelial detachment occurs in a few parafoveal and peripheral foci, and a moderate epiretinal membrane in a few foci spans most of the scan width. Subretinal fluid, double layer sign and outer retinal atrophy are absent.",
+        "diagnosed_diseases": "ftmh, vmt",
+        "generated_report": "the scan is consistent with vitreomacular traction and a full - thickness macular hole. numerous moderate intraretinal cysts are distributed at the fovea, parafovea, and periphery in the middle and upper scan. a focal mild posterior hyaloid membrane, single, lies at the fovea toward the top, and a small mild full - thickness macular hole is noted parafoveally in the upper part. outer retinal atrophy, operculum, and hyperreflective intraretinal points are absent."
+    },
+    {
+        "image_path": "sample_0356.png",
+        "image_label": "FTMH,AMD_late,ERM",
+        "generated_text": "diagnosed disease : ftmh, vmt, layer information : the scan is consistent with vitreomacular traction and a full - thickness macular hole. numerous moderate intraretinal cysts are distributed at the fovea, parafovea, and periphery in the middle and upper scan. a focal mild posterior hyaloid membrane, single, lies at the fovea toward the top, and a small mild full - thickness macular hole is noted parafoveally in the upper part. outer retinal atrophy, operculum, and hyperreflective intraretinal points are absent.",
+        "Expected_Text": "Overall picture: epiretinal membrane, full-thickness macular hole and late age-related macular degeneration. Toward the middle of the scan a marked full-thickness macular hole is solitary at the fovea, and a moderate pigment epithelial detachment is present in a few parafoveal and peripheral foci. Numerous moderate intraretinal cysts lie at the fovea and parafoveal region, and a moderate epiretinal membrane in a few foci covers most of the scan width in the middle and upper parts. There is no subretinal fluid, reticular drusen or hyperreflective intraretinal points.",
+        "diagnosed_diseases": "ftmh, vmt",
+        "generated_report": "the scan is consistent with vitreomacular traction and a full - thickness macular hole. numerous moderate intraretinal cysts are distributed at the fovea, parafovea, and periphery in the middle and upper scan. a focal mild posterior hyaloid membrane, single, lies at the fovea toward the top, and a small mild full - thickness macular hole is noted parafoveally in the upper part. outer retinal atrophy, operculum, and hyperreflective intraretinal points are absent."
+    },
+    {
+        "image_path": "sample_0425.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : amd _ late, vma, erm, layer information : findings are consistent with late age - related macular degeneration, vitreomacular adhesion, and epiretinal membrane. multiple marked subretinal fluid pockets spread across nearly the full width of the scan from fovea to periphery, in its middle and upper parts, with a solitary marked double layer sign and a solitary area of moderate subretinal hyperreflective material at the fovea in the middle of the scan. a single moderate hyperreflective intraretinal point and a tiny mild epiretinal membrane lie at the fovea toward the top, and a solitary moderate posterior hyaloid membrane is seen peripherally in the upper scan. no cuticular drusen, intraretinal cysts, or pigment epithelial detachment is present.",
+        "Expected_Text": "Findings are consistent with late age-related macular degeneration. Numerous moderate intraretinal cysts cluster in the foveal and parafoveal region across the middle and upper parts of the scan, with a solitary tiny focus of mild subretinal fluid and a single mild double layer sign at the fovea. No pigment epithelial detachment, posterior hyaloid membrane, or epiretinal membrane is seen.",
+        "diagnosed_diseases": "amd _ late, vma, erm",
+        "generated_report": "findings are consistent with late age - related macular degeneration, vitreomacular adhesion, and epiretinal membrane. multiple marked subretinal fluid pockets spread across nearly the full width of the scan from fovea to periphery, in its middle and upper parts, with a solitary marked double layer sign and a solitary area of moderate subretinal hyperreflective material at the fovea in the middle of the scan. a single moderate hyperreflective intraretinal point and a tiny mild epiretinal membrane lie at the fovea toward the top, and a solitary moderate posterior hyaloid membrane is seen peripherally in the upper scan. no cuticular drusen, intraretinal cysts, or pigment epithelial detachment is present."
+    },
+    {
+        "image_path": "sample_0425.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : amd _ late, vma, erm, layer information : findings are consistent with late age - related macular degeneration, vitreomacular adhesion, and epiretinal membrane. multiple marked subretinal fluid pockets spread across nearly the full width of the scan from fovea to periphery, in its middle and upper parts, with a solitary marked double layer sign and a solitary area of moderate subretinal hyperreflective material at the fovea in the middle of the scan. a single moderate hyperreflective intraretinal point and a tiny mild epiretinal membrane lie at the fovea toward the top, and a solitary moderate posterior hyaloid membrane is seen peripherally in the upper scan. no cuticular drusen, intraretinal cysts, or pigment epithelial detachment is present.",
+        "Expected_Text": "The scan is consistent with late age-related macular degeneration. At the fovea there is a single focal mild double layer sign and a solitary small pocket of mild subretinal fluid in the middle of the scan. Moderate intraretinal cysts, numerous in number, involve the foveal and parafoveal region in the middle and upper scan. Cuticular drusen, outer retinal atrophy, and hyperreflective intraretinal points are absent.",
+        "diagnosed_diseases": "amd _ late, vma, erm",
+        "generated_report": "findings are consistent with late age - related macular degeneration, vitreomacular adhesion, and epiretinal membrane. multiple marked subretinal fluid pockets spread across nearly the full width of the scan from fovea to periphery, in its middle and upper parts, with a solitary marked double layer sign and a solitary area of moderate subretinal hyperreflective material at the fovea in the middle of the scan. a single moderate hyperreflective intraretinal point and a tiny mild epiretinal membrane lie at the fovea toward the top, and a solitary moderate posterior hyaloid membrane is seen peripherally in the upper scan. no cuticular drusen, intraretinal cysts, or pigment epithelial detachment is present."
+    },
+    {
+        "image_path": "sample_0425.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : amd _ late, vma, erm, layer information : findings are consistent with late age - related macular degeneration, vitreomacular adhesion, and epiretinal membrane. multiple marked subretinal fluid pockets spread across nearly the full width of the scan from fovea to periphery, in its middle and upper parts, with a solitary marked double layer sign and a solitary area of moderate subretinal hyperreflective material at the fovea in the middle of the scan. a single moderate hyperreflective intraretinal point and a tiny mild epiretinal membrane lie at the fovea toward the top, and a solitary moderate posterior hyaloid membrane is seen peripherally in the upper scan. no cuticular drusen, intraretinal cysts, or pigment epithelial detachment is present.",
+        "Expected_Text": "Overall picture: late age-related macular degeneration. Numerous moderate intraretinal cysts are concentrated foveally and parafoveally, extending from the middle toward the upper part of the scan. A solitary focal mild double layer sign and a small solitary mild subretinal fluid collection are seen at the fovea. There is no evidence of reticular drusen, subretinal hyperreflective material, or full-thickness macular hole.",
+        "diagnosed_diseases": "amd _ late, vma, erm",
+        "generated_report": "findings are consistent with late age - related macular degeneration, vitreomacular adhesion, and epiretinal membrane. multiple marked subretinal fluid pockets spread across nearly the full width of the scan from fovea to periphery, in its middle and upper parts, with a solitary marked double layer sign and a solitary area of moderate subretinal hyperreflective material at the fovea in the middle of the scan. a single moderate hyperreflective intraretinal point and a tiny mild epiretinal membrane lie at the fovea toward the top, and a solitary moderate posterior hyaloid membrane is seen peripherally in the upper scan. no cuticular drusen, intraretinal cysts, or pigment epithelial detachment is present."
+    },
+    {
+        "image_path": "sample_0429.png",
+        "image_label": "RAO",
+        "generated_text": "diagnosed disease : ftmh, erm, layer information : the scan is consistent with epiretinal membrane and full - thickness macular hole. in the upper part of the scan, a marked full - thickness macular hole sits at the fovea with a few mild intraretinal cysts, while a few segments of moderate epiretinal membrane lie parafoveally and peripherally. outer retinal atrophy, reticular drusen, and hyperreflective intraretinal points are absent.",
+        "Expected_Text": "Findings are consistent with retinal artery occlusion. A few marked intraretinal hyperreflective inclusions span nearly the full width of the scan, one in the parafoveal region at mid-height and one peripherally in the upper part of the B-scan. No intraretinal cysts, subretinal fluid, or pigment epithelial detachment is seen, and epiretinal membrane is not present.",
+        "diagnosed_diseases": "ftmh, erm",
+        "generated_report": "the scan is consistent with epiretinal membrane and full - thickness macular hole. in the upper part of the scan, a marked full - thickness macular hole sits at the fovea with a few mild intraretinal cysts, while a few segments of moderate epiretinal membrane lie parafoveally and peripherally. outer retinal atrophy, reticular drusen, and hyperreflective intraretinal points are absent."
+    },
+    {
+        "image_path": "sample_0429.png",
+        "image_label": "RAO",
+        "generated_text": "diagnosed disease : ftmh, erm, layer information : the scan is consistent with epiretinal membrane and full - thickness macular hole. in the upper part of the scan, a marked full - thickness macular hole sits at the fovea with a few mild intraretinal cysts, while a few segments of moderate epiretinal membrane lie parafoveally and peripherally. outer retinal atrophy, reticular drusen, and hyperreflective intraretinal points are absent.",
+        "Expected_Text": "The scan is consistent with retinal artery occlusion. Marked intraretinal hyperreflective inclusions, a few in number, extend across almost the entire scan, involving the parafoveal region in the middle portion and the periphery toward the upper part. There is no double layer sign, cuticular drusen, or outer retinal atrophy.",
+        "diagnosed_diseases": "ftmh, erm",
+        "generated_report": "the scan is consistent with epiretinal membrane and full - thickness macular hole. in the upper part of the scan, a marked full - thickness macular hole sits at the fovea with a few mild intraretinal cysts, while a few segments of moderate epiretinal membrane lie parafoveally and peripherally. outer retinal atrophy, reticular drusen, and hyperreflective intraretinal points are absent."
+    },
+    {
+        "image_path": "sample_0429.png",
+        "image_label": "RAO",
+        "generated_text": "diagnosed disease : ftmh, erm, layer information : the scan is consistent with epiretinal membrane and full - thickness macular hole. in the upper part of the scan, a marked full - thickness macular hole sits at the fovea with a few mild intraretinal cysts, while a few segments of moderate epiretinal membrane lie parafoveally and peripherally. outer retinal atrophy, reticular drusen, and hyperreflective intraretinal points are absent.",
+        "Expected_Text": "Overall picture: retinal artery occlusion. The dominant abnormality is a set of a few marked intraretinal hyperreflective inclusions, parafoveal in the middle of the scan and peripheral toward the top, together covering nearly the full scan width. Hyperreflective intraretinal points, posterior hyaloid membrane, and subretinal hyperreflective material are absent.",
+        "diagnosed_diseases": "ftmh, erm",
+        "generated_report": "the scan is consistent with epiretinal membrane and full - thickness macular hole. in the upper part of the scan, a marked full - thickness macular hole sits at the fovea with a few mild intraretinal cysts, while a few segments of moderate epiretinal membrane lie parafoveally and peripherally. outer retinal atrophy, reticular drusen, and hyperreflective intraretinal points are absent."
+    },
+    {
+        "image_path": "sample_0445.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : vma, amd _ mid, layer information : the scan is consistent with intermediate age - related macular degeneration and vitreomacular adhesion. a few marked cuticular drusen are present peripherally in the middle of the scan over most of the scan width, and a single marked double layer sign lies at the fovea. moderate subretinal fluid is solitary and foveal in the upper part of the scan, while a mild posterior hyaloid membrane appears as a focal peripheral finding near the top of the scan. reticular drusen, intraretinal cysts and epiretinal membrane are not seen.",
+        "Expected_Text": "Findings are consistent with late age-related macular degeneration. A single broad focus of marked subretinal fluid lies at the fovea at mid-scan level, together with a marked double layer sign over a wide segment. A small solitary mild epiretinal membrane is present peripherally. No cuticular drusen, pigment epithelial detachment, or intraretinal cysts is seen.",
+        "diagnosed_diseases": "vma, amd _ mid",
+        "generated_report": "the scan is consistent with intermediate age - related macular degeneration and vitreomacular adhesion. a few marked cuticular drusen are present peripherally in the middle of the scan over most of the scan width, and a single marked double layer sign lies at the fovea. moderate subretinal fluid is solitary and foveal in the upper part of the scan, while a mild posterior hyaloid membrane appears as a focal peripheral finding near the top of the scan. reticular drusen, intraretinal cysts and epiretinal membrane are not seen."
+    },
+    {
+        "image_path": "sample_0445.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : vma, amd _ mid, layer information : the scan is consistent with intermediate age - related macular degeneration and vitreomacular adhesion. a few marked cuticular drusen are present peripherally in the middle of the scan over most of the scan width, and a single marked double layer sign lies at the fovea. moderate subretinal fluid is solitary and foveal in the upper part of the scan, while a mild posterior hyaloid membrane appears as a focal peripheral finding near the top of the scan. reticular drusen, intraretinal cysts and epiretinal membrane are not seen.",
+        "Expected_Text": "The scan is consistent with late age-related macular degeneration. At the fovea in the middle of the scan, marked subretinal fluid, a single wide focus, coexists with a marked double layer sign, and a mild epiretinal membrane, small and focal, lies peripherally. Reticular drusen, subretinal hyperreflective material, and outer retinal atrophy are absent.",
+        "diagnosed_diseases": "vma, amd _ mid",
+        "generated_report": "the scan is consistent with intermediate age - related macular degeneration and vitreomacular adhesion. a few marked cuticular drusen are present peripherally in the middle of the scan over most of the scan width, and a single marked double layer sign lies at the fovea. moderate subretinal fluid is solitary and foveal in the upper part of the scan, while a mild posterior hyaloid membrane appears as a focal peripheral finding near the top of the scan. reticular drusen, intraretinal cysts and epiretinal membrane are not seen."
+    },
+    {
+        "image_path": "sample_0445.png",
+        "image_label": "AMD_late",
+        "generated_text": "diagnosed disease : vma, amd _ mid, layer information : the scan is consistent with intermediate age - related macular degeneration and vitreomacular adhesion. a few marked cuticular drusen are present peripherally in the middle of the scan over most of the scan width, and a single marked double layer sign lies at the fovea. moderate subretinal fluid is solitary and foveal in the upper part of the scan, while a mild posterior hyaloid membrane appears as a focal peripheral finding near the top of the scan. reticular drusen, intraretinal cysts and epiretinal membrane are not seen.",
+        "Expected_Text": "Overall picture: late age-related macular degeneration. Foveal findings at mid-scan level are a wide, solitary marked subretinal fluid collection and a wide, solitary marked double layer sign. Peripherally, a focal mild epiretinal membrane is seen. Hyperreflective intraretinal points, outer retinal tubulation, and posterior hyaloid membrane are not seen.",
+        "diagnosed_diseases": "vma, amd _ mid",
+        "generated_report": "the scan is consistent with intermediate age - related macular degeneration and vitreomacular adhesion. a few marked cuticular drusen are present peripherally in the middle of the scan over most of the scan width, and a single marked double layer sign lies at the fovea. moderate subretinal fluid is solitary and foveal in the upper part of the scan, while a mild posterior hyaloid membrane appears as a focal peripheral finding near the top of the scan. reticular drusen, intraretinal cysts and epiretinal membrane are not seen."
+    },
+    {
+        "image_path": "sample_0450.png",
+        "image_label": "PVD",
+        "generated_text": "diagnosed disease : erm, dme, layer information : the scan is consistent with diabetic macular edema and epiretinal membrane. toward the upper part of the b - scan, at the fovea and parafoveal region, a moderate epiretinal membrane in multiple segments covers a wide part of the scan. hyperreflective intraretinal points, posterior hyaloid membrane, and outer retinal atrophy are absent.",
+        "Expected_Text": "Findings are consistent with posterior vitreous detachment. A solitary marked posterior hyaloid membrane spans nearly the full width of the scan at the fovea, in the upper part of the B-scan. No intraretinal cysts, subretinal fluid, or epiretinal membrane is seen.",
+        "diagnosed_diseases": "erm, dme",
+        "generated_report": "the scan is consistent with diabetic macular edema and epiretinal membrane. toward the upper part of the b - scan, at the fovea and parafoveal region, a moderate epiretinal membrane in multiple segments covers a wide part of the scan. hyperreflective intraretinal points, posterior hyaloid membrane, and outer retinal atrophy are absent."
+    },
+    {
+        "image_path": "sample_0450.png",
+        "image_label": "PVD",
+        "generated_text": "diagnosed disease : erm, dme, layer information : the scan is consistent with diabetic macular edema and epiretinal membrane. toward the upper part of the b - scan, at the fovea and parafoveal region, a moderate epiretinal membrane in multiple segments covers a wide part of the scan. hyperreflective intraretinal points, posterior hyaloid membrane, and outer retinal atrophy are absent.",
+        "Expected_Text": "The scan is consistent with posterior vitreous detachment. A single marked posterior hyaloid membrane runs across almost the entire scan width toward the top of the image, centered on the fovea. Pigment epithelial detachment, double layer sign, and hyperreflective intraretinal points are absent.",
+        "diagnosed_diseases": "erm, dme",
+        "generated_report": "the scan is consistent with diabetic macular edema and epiretinal membrane. toward the upper part of the b - scan, at the fovea and parafoveal region, a moderate epiretinal membrane in multiple segments covers a wide part of the scan. hyperreflective intraretinal points, posterior hyaloid membrane, and outer retinal atrophy are absent."
+    },
+    {
+        "image_path": "sample_0450.png",
+        "image_label": "PVD",
+        "generated_text": "diagnosed disease : erm, dme, layer information : the scan is consistent with diabetic macular edema and epiretinal membrane. toward the upper part of the b - scan, at the fovea and parafoveal region, a moderate epiretinal membrane in multiple segments covers a wide part of the scan. hyperreflective intraretinal points, posterior hyaloid membrane, and outer retinal atrophy are absent.",
+        "Expected_Text": "Overall picture: posterior vitreous detachment. The only abnormality is a single marked posterior hyaloid membrane crossing the full upper scan at the fovea. The scan is free of cuticular drusen, subretinal hyperreflective material, and outer retinal atrophy.",
+        "diagnosed_diseases": "erm, dme",
+        "generated_report": "the scan is consistent with diabetic macular edema and epiretinal membrane. toward the upper part of the b - scan, at the fovea and parafoveal region, a moderate epiretinal membrane in multiple segments covers a wide part of the scan. hyperreflective intraretinal points, posterior hyaloid membrane, and outer retinal atrophy are absent."
+    },
+    {
+        "image_path": "sample_0452.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : dme, erm, layer information : findings are consistent with diabetic macular edema and epiretinal membrane. a moderate epiretinal membrane in multiple segments spans a wide segment of the scan across the fovea, parafoveal region, and periphery, in its upper portion. multiple mild hyperreflective intraretinal points are seen peripherally in the middle and upper parts of the image. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is present.",
+        "Expected_Text": "Findings are consistent with late age-related macular degeneration and posterior vitreous detachment. A solitary moderate subretinal fluid collection lies at the fovea toward the upper part of the scan, with a solitary mild double layer sign in the middle of the scan at the same location. A mild posterior hyaloid membrane in a few segments covers a wide segment of the upper scan, parafoveally and peripherally, and a single focal mild cuticular drusen is noted peripherally. No epiretinal membrane, intraretinal cysts, or pigment epithelial detachment is seen.",
+        "diagnosed_diseases": "dme, erm",
+        "generated_report": "findings are consistent with diabetic macular edema and epiretinal membrane. a moderate epiretinal membrane in multiple segments spans a wide segment of the scan across the fovea, parafoveal region, and periphery, in its upper portion. multiple mild hyperreflective intraretinal points are seen peripherally in the middle and upper parts of the image. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is present."
+    },
+    {
+        "image_path": "sample_0452.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : dme, erm, layer information : findings are consistent with diabetic macular edema and epiretinal membrane. a moderate epiretinal membrane in multiple segments spans a wide segment of the scan across the fovea, parafoveal region, and periphery, in its upper portion. multiple mild hyperreflective intraretinal points are seen peripherally in the middle and upper parts of the image. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is present.",
+        "Expected_Text": "The scan is consistent with posterior vitreous detachment and late age-related macular degeneration. Toward the upper part of the scan, a mild posterior hyaloid membrane in a few segments extends over the parafoveal and peripheral retina across most of the scan width, and a solitary moderate subretinal fluid collection is present at the fovea. A mild double layer sign is seen centrally, single and focal, and a small mild cuticular drusen lies peripherally. Hyperreflective intraretinal points, outer retinal atrophy, and reticular drusen are absent.",
+        "diagnosed_diseases": "dme, erm",
+        "generated_report": "findings are consistent with diabetic macular edema and epiretinal membrane. a moderate epiretinal membrane in multiple segments spans a wide segment of the scan across the fovea, parafoveal region, and periphery, in its upper portion. multiple mild hyperreflective intraretinal points are seen peripherally in the middle and upper parts of the image. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is present."
+    },
+    {
+        "image_path": "sample_0452.png",
+        "image_label": "AMD_late,PVD",
+        "generated_text": "diagnosed disease : dme, erm, layer information : findings are consistent with diabetic macular edema and epiretinal membrane. a moderate epiretinal membrane in multiple segments spans a wide segment of the scan across the fovea, parafoveal region, and periphery, in its upper portion. multiple mild hyperreflective intraretinal points are seen peripherally in the middle and upper parts of the image. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is present.",
+        "Expected_Text": "Overall picture: late age-related macular degeneration and posterior vitreous detachment. A moderate subretinal fluid collection, single and foveal, is seen in the upper part of the scan, alongside a solitary mild double layer sign at the fovea. Peripherally there is a single tiny mild cuticular drusen, and a mild posterior hyaloid membrane in a few segments spans a wide part of the upper scan. No evidence of subretinal hyperreflective material, epiretinal membrane, or full-thickness macular hole.",
+        "diagnosed_diseases": "dme, erm",
+        "generated_report": "findings are consistent with diabetic macular edema and epiretinal membrane. a moderate epiretinal membrane in multiple segments spans a wide segment of the scan across the fovea, parafoveal region, and periphery, in its upper portion. multiple mild hyperreflective intraretinal points are seen peripherally in the middle and upper parts of the image. no intraretinal cysts, subretinal fluid, or pigment epithelial detachment is present."
+    },
+    {
+        "image_path": "sample_0462.png",
+        "image_label": "RVO",
+        "generated_text": "diagnosed disease : amd _ mid, layer information : the scan is consistent with intermediate age - related macular degeneration. in the parafoveal region, a solitary focal mild outer retinal atrophy area lies in the middle of the b - scan, and a single small mild pigment epithelial detachment sits toward the lower part. multiple moderate cuticular drusen span the foveal and parafoveal regions in the lower and middle portions. double layer sign, hyperreflective intraretinal points, and reticular drusen are absent.",
+        "Expected_Text": "Findings are consistent with retinal vein occlusion. A few marked intraretinal cysts are present at the fovea in the middle of the scan, with a few small mild hyperreflective intraretinal points in the same foveal location. No subretinal fluid, posterior hyaloid membrane or pigment epithelial detachment is seen.",
+        "diagnosed_diseases": "amd _ mid",
+        "generated_report": "the scan is consistent with intermediate age - related macular degeneration. in the parafoveal region, a solitary focal mild outer retinal atrophy area lies in the middle of the b - scan, and a single small mild pigment epithelial detachment sits toward the lower part. multiple moderate cuticular drusen span the foveal and parafoveal regions in the lower and middle portions. double layer sign, hyperreflective intraretinal points, and reticular drusen are absent."
+    },
+    {
+        "image_path": "sample_0462.png",
+        "image_label": "RVO",
+        "generated_text": "diagnosed disease : amd _ mid, layer information : the scan is consistent with intermediate age - related macular degeneration. in the parafoveal region, a solitary focal mild outer retinal atrophy area lies in the middle of the b - scan, and a single small mild pigment epithelial detachment sits toward the lower part. multiple moderate cuticular drusen span the foveal and parafoveal regions in the lower and middle portions. double layer sign, hyperreflective intraretinal points, and reticular drusen are absent.",
+        "Expected_Text": "The scan is consistent with retinal vein occlusion. At the fovea, in the middle of the scan, marked intraretinal cysts are present in a few small foci, accompanied by a few mild hyperreflective intraretinal points. Epiretinal membrane, full-thickness macular hole and outer retinal atrophy are absent.",
+        "diagnosed_diseases": "amd _ mid",
+        "generated_report": "the scan is consistent with intermediate age - related macular degeneration. in the parafoveal region, a solitary focal mild outer retinal atrophy area lies in the middle of the b - scan, and a single small mild pigment epithelial detachment sits toward the lower part. multiple moderate cuticular drusen span the foveal and parafoveal regions in the lower and middle portions. double layer sign, hyperreflective intraretinal points, and reticular drusen are absent."
+    },
+    {
+        "image_path": "sample_0462.png",
+        "image_label": "RVO",
+        "generated_text": "diagnosed disease : amd _ mid, layer information : the scan is consistent with intermediate age - related macular degeneration. in the parafoveal region, a solitary focal mild outer retinal atrophy area lies in the middle of the b - scan, and a single small mild pigment epithelial detachment sits toward the lower part. multiple moderate cuticular drusen span the foveal and parafoveal regions in the lower and middle portions. double layer sign, hyperreflective intraretinal points, and reticular drusen are absent.",
+        "Expected_Text": "Overall picture: retinal vein occlusion, with a focal foveal abnormality in the middle of the scan comprising a few marked intraretinal cysts and a few mild hyperreflective intraretinal points. Cuticular drusen, reticular drusen and subretinal hyperreflective material are not present.",
+        "diagnosed_diseases": "amd _ mid",
+        "generated_report": "the scan is consistent with intermediate age - related macular degeneration. in the parafoveal region, a solitary focal mild outer retinal atrophy area lies in the middle of the b - scan, and a single small mild pigment epithelial detachment sits toward the lower part. multiple moderate cuticular drusen span the foveal and parafoveal regions in the lower and middle portions. double layer sign, hyperreflective intraretinal points, and reticular drusen are absent."
+    }
+]
